@@ -1,0 +1,5040 @@
+[
+    {
+        "unique_id": "7d362eaa-8130-410a-bf23-7be549177af0",
+        "name": "109/No 1 Bekwai Rd (Near Mexico Hotel) Takoradi, Ghana",
+        "type": "clinic",
+        "city": "Takoradi",
+        "description": "WAAF is committed to battling HIV/AIDS, TB, and other conditions through grassroot initiatives throughout communities. The main objectives for WAAF are to deliver prevention, behavioral, care and support services for the general population but with emphasis on vulnerable populations. Our ultimate goal is a future where HIV and AIDS is no longer an epidemic, and people are no longer stigmatized. The organization\u2019s vision and mission guide for daily and long-term operations, as detailed in the organization\u2019s strategic plan document.",
+        "facts": {
+            "specialties": [
+                "HIV/AIDS",
+                "TB"
+            ],
+            "services": [
+                "prevention",
+                "behavioral care"
+            ],
+            "equipment": [],
+            "capability": [
+                "grassroot initiative"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "8944be75-1ef2-49f7-84a9-763dc4000c7b",
+        "name": "2BN Military Hospital",
+        "type": "hospital",
+        "city": "Apremdo",
+        "description": "2BN Military Hospital is a quasi-government hospital in Western, Apremdo Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "quasi-government hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "438f3e65-d688-4db6-bc9f-0d2f6edbafe6",
+        "name": "3E Medical Center - Accra, Ghana",
+        "type": NaN,
+        "city": "Accra",
+        "description": "A health care institution providing patient treatment with specialized medical and nursing staff.",
+        "facts": {
+            "specialties": [
+                "medical",
+                "nursing"
+            ],
+            "services": [
+                "treatment"
+            ],
+            "equipment": [],
+            "capability": [
+                "health care institution",
+                "specialized staff"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "9b5bcd5b-ffa8-45c0-8d89-29513c7440b6",
+        "name": "A & A Medlove Medical Centre",
+        "type": NaN,
+        "city": "Accra",
+        "description": "A & A Medlove Medical Centre is located at Parakuo Estates, on the Abokobi road, Accra, Ghana. It provides 24-hour service.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "77a63893-e9b0-4aa7-89cf-daea0bdc3938",
+        "name": "A&a Medlove Medical Centre",
+        "type": NaN,
+        "city": "Accra",
+        "description": "A&A MEDLOVE MEDICAL CENTRE IS A MEDICAL FACILITY ESTABLISHED IN JUNE 2016 TO SERVE OUR COMMUNITY OUR SERVICES INCLUDE: 1. GENERALLY CONSULTATION 2. SPECIALIST CONSULTATION   OBSTETRICS AND GYNECOLOGY 3. PEDIATRICS 4. EYE CARE 5. OUT PATIENT & IN PATIENT 6. PHARMACY   7. LABORATORY   8. ULTRASOUND SCAN   9. ELECTROCARDIOGRAM( ECG)",
+        "facts": {
+            "specialties": [
+                "Obstetrics and Gynecology",
+                "Pediatrics",
+                "Eye Care"
+            ],
+            "services": [
+                "Consultation",
+                "Specialist Consultation",
+                "Obstetrics and Gynecology",
+                "Pediatrics",
+                "Eye Care",
+                "Out Patient & In Patient",
+                "Pharmacy",
+                "Laboratory",
+                "Ultrasound Scan",
+                "Electrocardiogram (ECG)"
+            ],
+            "equipment": [
+                "Ultrasound Scan",
+                "Electrocardiogram (ECG)"
+            ],
+            "capability": [
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": true,
+            "risk_score": 4,
+            "flags": [
+                "CRITICAL: Registry lists as 'nan', but AI extracted ULTRASOUND. Possible resource misallocation.",
+                "CRITICAL: Registry lists as 'nan', but AI extracted ECG. Possible resource misallocation."
+            ]
+        }
+    },
+    {
+        "unique_id": "f5f50673-aaa4-440c-9073-6736277a2278",
+        "name": "Abuakwa Maternity Home",
+        "type": "hospital",
+        "city": "Abuakwa",
+        "description": "Abuakwa Maternity Home is a private maternity home in Ashanti, Abuakwa Ghana.",
+        "facts": {
+            "specialties": [
+                "obstetrics",
+                "gynecology"
+            ],
+            "services": [
+                "maternity care"
+            ],
+            "equipment": [],
+            "capability": [
+                "private",
+                "maternity home"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "6c1a5964-3b1e-4943-85e9-9d009689a107",
+        "name": "Abura Health Centre",
+        "type": NaN,
+        "city": "Abura",
+        "description": "Health Centre offering general services; government-owned; NHIS accredited.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "general services"
+            ],
+            "equipment": [],
+            "capability": [
+                "government-owned",
+                "NHIS accredited"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "6cb95d3b-34b2-4354-ad7d-08dba6345cb8",
+        "name": "Accra Newtown Islamic Hospital",
+        "type": "hospital",
+        "city": "Accra Newtown",
+        "description": "Modern Healthcare for everybody. We do all types of laboratory test 24/7. Ultra modern theatre for Major and Minor surgeries. 24 / 7 Dispensary for all types of medications.",
+        "facts": {
+            "specialties": [
+                "Laboratory"
+            ],
+            "services": [
+                "Laboratory",
+                "Surgery",
+                "Pharmacy",
+                "Dispensary"
+            ],
+            "equipment": [
+                "Theatre",
+                "Dispensary"
+            ],
+            "capability": [
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "72551c75-afcb-4c7f-b6b4-d5a35c72def4",
+        "name": "Accra Psychiatric Hospital",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "OPD services; 24hr Emergency care; in-patients services; Clinical Psychology services; Electro Convulsive Therapy; Laboratory Services; 24 hr Pharmacy; Social Work Services; Community Psychiatry Nursing Services; drug treatment & Rehab; occupational therapy services. Bed state: 15 wards with the capacity to accommodate 600 patients; currently running 300 beds due to Covid-19. Opening Hours: 24 hr Services. Visiting Hours: Mon\u2013Sun 6AM\u20138PM.",
+        "facts": {
+            "specialties": [
+                "Clinical Psychology",
+                "Community Psychiatry",
+                "Occupational Therapy"
+            ],
+            "services": [
+                "OPD services",
+                "24hr Emergency care",
+                "in-patients services",
+                "Clinical Psychology services",
+                "Electro Convulsive Therapy",
+                "Laboratory Services",
+                "24 hr Pharmacy",
+                "Social Work Services",
+                "Community Psychiatry Nursing Services",
+                "drug treatment & Rehab",
+                "occupational therapy services"
+            ],
+            "equipment": [],
+            "capability": [
+                "24hr Emergency care",
+                "24 hr Services"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "e88bc1ec-d694-4eae-a751-bf2dd7452bce",
+        "name": "Accra Specialist Eye Hospital",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "Excellence in Eye Care at Accra Specialist Eye Hospital. From advanced laser and cataract surgeries to comprehensive clinical and diagnostic services, we are here to meet all your eye care needs.",
+        "facts": {
+            "specialties": [
+                "Eye Care"
+            ],
+            "services": [
+                "Laser surgery",
+                "Cataract surgery",
+                "Clinical services",
+                "Diagnostic services"
+            ],
+            "equipment": [],
+            "capability": [
+                "Specialist"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "e217ce16-b379-4d49-892c-760cc5f6957e",
+        "name": "Accra Specialist Eye Hospital",
+        "type": "hospital",
+        "city": NaN,
+        "description": "We're an eye specialist hospital dedicated to providing the best care for you and your eyes.",
+        "facts": {
+            "specialties": [
+                "Eye Care"
+            ],
+            "services": [],
+            "equipment": [],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "87c463b8-0f1e-410a-bd84-50b2ee306e4f",
+        "name": "Acrecity Medics",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "Acrecity Medics runs a clinic in Airport City, Accra.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "07629c3c-cdae-4f1c-b585-dbd634fdd60f",
+        "name": "Acres Medical Centre",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "Acres Medical Centre is in Lakeside Estate.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "478835f8-37b7-4701-8175-1abb78990632",
+        "name": "Adidome Government Hospital",
+        "type": "hospital",
+        "city": "Adidome",
+        "description": "A typical district hospital; located in the Central Tongu District of the Republic of Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "district hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "f3e4ebce-5a05-41cb-b36a-f8ec3e793392",
+        "name": "Adiebeba Specialist Hospital",
+        "type": "hospital",
+        "city": "Kumasi",
+        "description": "Adiebeba Specialist Hospital is one of the pioneers in private sector healthcare delivery in Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "private sector healthcare delivery"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "e21a91aa-3a45-43e6-affb-136125afbf3e",
+        "name": "Adjoum Community Clinic",
+        "type": "clinic",
+        "city": "Adjoum",
+        "description": "Adjoum Community Clinic is a private clinic in Western, Adjoum Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "private clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "07a14429-5150-4ec0-9963-c656db3707f6",
+        "name": "Adum Banso Community Clinic",
+        "type": "clinic",
+        "city": "Adum Banso",
+        "description": "Type: Health Centre; Ownership: Government; Location: ADUM BANSO C/O P.O.BOX 48, DABOASE; Tel: O244541118; Services: General; NHIS accredited?: yes",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "9ad67bdf-839a-49b0-92e0-eaaf9d34e3bc",
+        "name": "Adumkrom PHC Clinic",
+        "type": "clinic",
+        "city": "Adumkrom",
+        "description": "Adumkrom PHC Clinic is a private clinic in Western, Adumkrom Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "private clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "a6f82eb9-00b8-430c-8314-bde14e1bf449",
+        "name": "Advocate Healthcare",
+        "type": "dentist",
+        "city": "Accra",
+        "description": "Advocate Healthcare stands for life. We offer General Medical and Dental services,with an in-house Dental and Medical Lab and Pharmacy.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "General Medical",
+                "Dental",
+                "Pharmacy",
+                "Laboratory"
+            ],
+            "equipment": [
+                "Dental Lab",
+                "Medical Lab"
+            ],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "32644cb2-dda9-4e4c-89a0-86223d1eac9c",
+        "name": "Afamaso Maternity Home",
+        "type": NaN,
+        "city": "Afamaso",
+        "description": "Afamaso Maternity Home is a private maternity home in Ashanti, Afamaso Ghana.",
+        "facts": {
+            "specialties": [
+                "obstetrics",
+                "gynecology"
+            ],
+            "services": [
+                "maternity care"
+            ],
+            "equipment": [],
+            "capability": [
+                "private",
+                "maternity home"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "acc224db-1e5f-42b3-8a38-28fa930406ea",
+        "name": "African Vision Clinic - Adenta Housing down, Accra, Ghana",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "Health & Medical Services / Alternative Medicines / Medical Supply & Engineering Services; Maternity Clinic",
+        "facts": {
+            "specialties": [
+                "Maternity Clinic"
+            ],
+            "services": [
+                "Health & Medical Services",
+                "Alternative Medicines",
+                "Medical Supply & Engineering Services"
+            ],
+            "equipment": [],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "30eee581-f793-4189-a10d-9fec4103ec9c",
+        "name": "Agogo Presbyterian Hospital, Asante Akim North, Agogo",
+        "type": "hospital",
+        "city": "Agogo",
+        "description": "The Presbyterian Hospital, Agogo (PreHA) was established on 21st March, 1931 making it the oldest Mission Hospital in Ghana. PreHA is well known to be second to Komfo Anokye Teaching Hospital in terms of performance outputs in the Ashanti Region.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Mission Hospital",
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "00c68756-f092-4a43-8cec-b5237004d570",
+        "name": "Agyakwa Hospital",
+        "type": "hospital",
+        "city": "Nkawkaw",
+        "description": "AGYAKWA HOSPITAL is located in Nkawkaw.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "7eb831df-30e6-4213-bd38-b53a9d71e133",
+        "name": "Agyakwa Hospital - Nkawkaw",
+        "type": "hospital",
+        "city": "Nkawkaw",
+        "description": "Agyakwa Hospital Ltd. located at Domeabra Nkawkaw, Nkawkaw, Ghana provides services in Health & Medical Centers.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Health & Medical Centers"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "fd11b0e3-bc45-4008-90a6-a982aab3987e",
+        "name": "Ahmadiyya Muslim Hospital Asokore Ashanti",
+        "type": "hospital",
+        "city": "Asokore",
+        "description": "We are still noted for good hospitality and better services",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "better services"
+            ],
+            "equipment": [],
+            "capability": [
+                "good hospitality"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "2cc3adeb-039a-4a07-9998-6c5803fe9b4e",
+        "name": "Ahmadiyya Muslim Hospital, Techiman",
+        "type": "hospital",
+        "city": "Techiman",
+        "description": "The 100-bed facility provides primary level healthcare to the people of Techiman Municipality and beyond.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "adf7cd83-c9ac-4502-af45-beae1b774582",
+        "name": "Ahmadiyya Muslim Mission Hospital",
+        "type": "hospital",
+        "city": "DABOASE",
+        "description": "Type: Primary Hospital; Ownership: Mission; Location: AHMADIYYA HOSPITAL COMPOUND, P.O.BOX 31 DABOASE; Tel: 031-914-87/027-111-866-6/027-168-041-2; Services: General; NHIS accredited?: yes",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "General"
+            ],
+            "equipment": [],
+            "capability": [
+                "Primary Hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "1854b748-b32c-457c-8f2d-f1241b3868f2",
+        "name": "AIH lab & X-ray Center",
+        "type": "clinic",
+        "city": "Tema",
+        "description": "We perform Medical lab tests ,X-rays, Ultrasound Scans",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "Medical lab tests",
+                "X-rays",
+                "Ultrasound Scans"
+            ],
+            "equipment": [
+                "Ultrasound"
+            ],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": true,
+            "risk_score": 2,
+            "flags": [
+                "CRITICAL: Registry lists as 'clinic', but AI extracted ULTRASOUND. Possible resource misallocation."
+            ]
+        }
+    },
+    {
+        "unique_id": "04444937-e92a-4cde-a5eb-e52753fb9926",
+        "name": "Aisha Hospital",
+        "type": "hospital",
+        "city": "Tamale",
+        "description": "The Aisha Hospital is located in Tamale on the Old Airport Road around the Aliu Mahama Sports Stadium area.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "1bd41ae7-6eb3-40e1-bb22-7013a7967a24",
+        "name": "Ajumako Hospital",
+        "type": "hospital",
+        "city": "Ajumako",
+        "description": "Ajumako Hospital is a government district hospital in Central, Ajumako Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "government district hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "0bd57053-30a9-4ab1-994c-f415f657c88b",
+        "name": "Akan Herbal Treatment Center",
+        "type": "clinic",
+        "city": "Kumasi",
+        "description": "Akan herbal Treatments center is a herbal clinic which use pure herbal medicine to cure a lot of sickness, we do house to house service within Accra as well.",
+        "facts": {
+            "specialties": [
+                "herbal medicine"
+            ],
+            "services": [
+                "cure a lot of sickness"
+            ],
+            "equipment": [
+                "herbal medicine"
+            ],
+            "capability": [
+                "herbal clinic",
+                "house to house service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "8e37b57f-9876-4aa8-9123-3ee6230318ae",
+        "name": "Akatsi South Municipal Hospital",
+        "type": "hospital",
+        "city": "Akatsi",
+        "description": "Akatsi South Municipal Hospital was established as a dental clinic in 1996. It was upgraded to a health center in 1996. It was again upgraded to a district hospital in 2007 and further upgraded to Municipal status in the year 2021. Our mission is to provide compassionate holistic health-care to promote healing, foster innovation and empower our diverse community to achieve optimal well-being. Services rendered include mental health, maternal & child health, out-patient (OPD) services, inpatient services, laboratory services, pharmacy & dispensary services, ART and public health services. Specialized units include Dental, ENT and Eye. The recent additions include Diabetes/Hypertension (DM/HPT) clinic, wellness clinic, breast and cervical screening units.",
+        "facts": {
+            "specialties": [
+                "Dental",
+                "ENT",
+                "Eye",
+                "Diabetes/Hypertension (DM/HPT)",
+                "Wellness",
+                "Breast and cervical screening"
+            ],
+            "services": [
+                "Mental health",
+                "Maternal & child health",
+                "Out-patient (OPD) services",
+                "Inpatient services",
+                "Laboratory services",
+                "Pharmacy & dispensary services",
+                "ART",
+                "Public health services"
+            ],
+            "equipment": [
+                "Laboratory",
+                "Pharmacy",
+                "ART"
+            ],
+            "capability": [
+                "Primary hospital",
+                "24-hour service",
+                "Municipal status"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "66ad8822-9eef-4ce9-bb65-04959777429c",
+        "name": "Akcess Dental",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "Akcess Dental is one of the best dental clinics in Ghana for families and institutions. At Akcess Dental,we care about our patients and treat you like family. We are dedicated to ensuring that you have clean,healthy and attractive teeth.",
+        "facts": {
+            "specialties": [
+                "pediatrics",
+                "institutional care"
+            ],
+            "services": [
+                "dental care",
+                "treatment"
+            ],
+            "equipment": [],
+            "capability": [
+                "family clinic",
+                "institutional care"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "3e525899-21cb-480f-859c-01aa159f3fb6",
+        "name": "Akcess Dental",
+        "type": "dentist",
+        "city": "North Legon",
+        "description": "Akcess Dental is a dentist and dental office in Ghana with branches in North Legon and Oyarifa Mall.",
+        "facts": {
+            "specialties": [
+                "dentist"
+            ],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "dental office"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "dbf2b85c-9d75-4507-b866-f7b0a6deccbc",
+        "name": "Akora Health Care",
+        "type": NaN,
+        "city": "Kumasi",
+        "description": "we help maintain healthy body and care for all manner of heath problems and diseases.",
+        "facts": {
+            "specialties": [
+                "General Medicine"
+            ],
+            "services": [
+                "Prevention",
+                "Care"
+            ],
+            "equipment": [],
+            "capability": [
+                "Primary care facility"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "0643b69b-fb41-4fc5-b68e-2f7ae8cbd5a6",
+        "name": "Akrofrom Health Centre - Ghana",
+        "type": NaN,
+        "city": "Akrofrom",
+        "description": "Akrofrom Health Centre is a government health centre in Ashanti, Akrofrom Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "government health centre"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "684d8bfd-f582-4ef4-9817-4bdd58e09a09",
+        "name": "Akwamuman Herbal Clinic",
+        "type": "clinic",
+        "city": "Akosombo",
+        "description": "Akwamuman Herbal Clinic is a specialized herbal clinic which treats all kinds and forms of diseases.",
+        "facts": {
+            "specialties": [
+                "Herbal medicine"
+            ],
+            "services": [
+                "Treatment"
+            ],
+            "equipment": [],
+            "capability": [
+                "Specialized clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "e75a370a-8c4b-4aa5-9866-c6ac73e44dbb",
+        "name": "Al-Ayar Hospital",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "Al-Ayar Hospital is a hospital, located at Al-Ayar Hospital, Dzagble Avenue, Accra, Ghana",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "54ea35a8-47a9-47a0-b66b-bd2bde654bcd",
+        "name": "Al-haq Herbal Center",
+        "type": "clinic",
+        "city": "Walewale",
+        "description": "Al-haq Herbal Center is a modern herbal clinic in Northern Ghana.",
+        "facts": {
+            "specialties": [
+                "herbal medicine"
+            ],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "modern herbal clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "a266d56e-cbbe-4f2f-a14b-fdda19d79170",
+        "name": "Alhaji Nuhu Memorial Healthcare Centre",
+        "type": NaN,
+        "city": "Kamgbunli",
+        "description": "We are located at KAMGBUNLI in the Western Region of GHANA. Our services: emergency, out and in-patient care, diagnostic imaging, laboratory, maternity, mental health, family planning, cuts, burns and wounds\u2019 treatment and dressing.",
+        "facts": {
+            "specialties": [
+                "maternity",
+                "mental health"
+            ],
+            "services": [
+                "emergency",
+                "out and in-patient care",
+                "diagnostic imaging",
+                "laboratory",
+                "maternity",
+                "mental health",
+                "family planning",
+                "cuts, burns and wounds\u2019 treatment and dressing"
+            ],
+            "equipment": [
+                "diagnostic imaging"
+            ],
+            "capability": [
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "1e6a0497-49a1-4755-b630-be6bbffb36f3",
+        "name": "Alice Memorial Maternity Clinic - Ghana",
+        "type": "clinic",
+        "city": "Tepa",
+        "description": "Alice Memorial Maternity Clinic is a private maternity home in Ashanti, Tepa Ghana.",
+        "facts": {
+            "specialties": [
+                "Maternity"
+            ],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "private maternity home"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "5c61273b-7aba-4405-ba39-4d98dee332ee",
+        "name": "All Joy Dental Clinic",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "A dental clinic in the center of town that provides professional dental services.",
+        "facts": {
+            "specialties": [
+                "Dental care"
+            ],
+            "services": [
+                "Dental services",
+                "Professional services"
+            ],
+            "equipment": [],
+            "capability": [
+                "Primary care"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "09723e74-3d0b-4131-963f-58d8560b742c",
+        "name": "All Smile Dental & Paediatric Centre",
+        "type": "dentist",
+        "city": "Accra",
+        "description": "A service-oriented dental practice with great staff and a great environment for your dental needs. We have branches in Dansoman, East Legon and Tseado.",
+        "facts": {
+            "specialties": [
+                "dentistry"
+            ],
+            "services": [
+                "dental care"
+            ],
+            "equipment": [],
+            "capability": [
+                "service-oriented"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "7946530c-26d5-4991-a403-135b4962f14b",
+        "name": "All Smile Dental Clinic Dansoman Branch",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "All Smile Dental Clinic Dansoman Branch provides dental care for the whole family with a focus on preventive and curative services, and a child-friendly environment.",
+        "facts": {
+            "specialties": [
+                "Dental care"
+            ],
+            "services": [
+                "Preventive services",
+                "Curative services"
+            ],
+            "equipment": [],
+            "capability": [
+                "Child-friendly environment"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "9035717d-5a88-4bc0-a414-e3746116f695",
+        "name": "Allen Health Clinic - Ghana",
+        "type": "clinic",
+        "city": "Wamasi",
+        "description": "Allen Health Clinic is a government clinic in Ashanti, Wamasi Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "government clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "cfce8229-0819-4632-a7e0-facfd481b05a",
+        "name": "Alma Medical Laboratory",
+        "type": NaN,
+        "city": "Accra",
+        "description": "We provide total Health care solution. Uncompromised Quality. Reliable Results. Always. Laboratory hours: Mon to Fri 07:00 - 20:00; Saturday 08:00 - 20:00; Sunday 09:00 - 20:00. Emergency calls: 0556 373005 / 0308 249465.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "Laboratory"
+            ],
+            "equipment": [],
+            "capability": [
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "828ccae8-e21d-45f3-9678-64274dc78399",
+        "name": "Alma Medical Laboratory",
+        "type": NaN,
+        "city": "Accra",
+        "description": "ALMA MEDICAL LAB is a full-service, independent clinical laboratory servicing in Osu, Accra.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "clinical laboratory"
+            ],
+            "equipment": [],
+            "capability": [
+                "full-service",
+                "independent",
+                "clinical laboratory"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "c036e222-e6d3-483b-a796-87cf2cafba3b",
+        "name": "Alpha Medical Diagnostic Services",
+        "type": NaN,
+        "city": "Kumasi",
+        "description": "Alpha Medical Diagnostic Services is a medical laboratory located in Kumasi, Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "Laboratory"
+            ],
+            "equipment": [],
+            "capability": [
+                "Medical laboratory"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "233281fa-d166-4f00-b433-2358367a5251",
+        "name": "Ama Dansowaa Maternity Home",
+        "type": NaN,
+        "city": NaN,
+        "description": "Maternity home offering antenatal and post-natal services; NHIS accredited.",
+        "facts": {
+            "specialties": [
+                "Maternity"
+            ],
+            "services": [
+                "antenatal",
+                "post-natal"
+            ],
+            "equipment": [],
+            "capability": [
+                "NHIS accredited"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "3a285737-880b-49fe-903b-89f4991eb4af",
+        "name": "Amang Health Centre",
+        "type": "clinic",
+        "city": NaN,
+        "description": "We treat All kinds of medical health challenges. We also provide Health Consultation to help you prev",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "Health Consultation",
+                "Prevention"
+            ],
+            "equipment": [],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "21543283-64fa-4a08-a2d5-db985516d3b8",
+        "name": "Amantenaman Health Centre",
+        "type": NaN,
+        "city": "Nyinamponase",
+        "description": "Amantenaman Health Centre is a government health centre in Ashanti, Nyinamponase Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "government health centre"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "bb80125e-79fa-40e7-b249-9a633ae50c40",
+        "name": "Amen Scientific Herbal Hospital",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "Your trusted herbal & alternative medical hospital.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "herbal",
+                "alternative medical hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "04236922-57d2-410e-a332-8ae1ad0ff5b6",
+        "name": "Amen Scientific Herbal Hospital \u2013 Klagon Branch",
+        "type": "hospital",
+        "city": "Klagon",
+        "description": "We are expert in stroke, fertility and chronic diseases. At Amen Scientific Herbal Hospital, We apply many therapies including phytotherapy, naturopathy and homeopathy.",
+        "facts": {
+            "specialties": [
+                "stroke",
+                "fertility",
+                "chronic diseases"
+            ],
+            "services": [
+                "phytotherapy",
+                "naturopathy",
+                "homeopathy"
+            ],
+            "equipment": [],
+            "capability": [
+                "expert",
+                "Amen Scientific Herbal Hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "ac1198ad-1306-4eb6-b63c-119ee96244e2",
+        "name": "American International Hospital",
+        "type": NaN,
+        "city": "Tema",
+        "description": "AIH lab & X-ray Center performs medical lab tests, X-rays, and ultrasound scans.",
+        "facts": {
+            "specialties": [
+                "lab tests",
+                "X-rays",
+                "ultrasound scans"
+            ],
+            "services": [
+                "medical lab tests",
+                "X-rays",
+                "ultrasound scans"
+            ],
+            "equipment": [
+                "X-ray",
+                "ultrasound"
+            ],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": true,
+            "risk_score": 2,
+            "flags": [
+                "CRITICAL: Registry lists as 'nan', but AI extracted ULTRASOUND. Possible resource misallocation."
+            ]
+        }
+    },
+    {
+        "unique_id": "36587029-05bf-44bc-9f9b-1951b98c75b2",
+        "name": "American_Rejuvenation Clinic",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "General Health, Anti-Aging , Preventive Health, Health Management and Hormone Replacement.",
+        "facts": {
+            "specialties": [
+                "General Health",
+                "Anti-Aging",
+                "Preventive Health",
+                "Health Management",
+                "Hormone Replacement"
+            ],
+            "services": [],
+            "equipment": [],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "82cc8e0a-c2a3-4f05-ad4f-e841957d25e1",
+        "name": "Anane Aya Maternity Home",
+        "type": "clinic",
+        "city": NaN,
+        "description": "Anane Aya Maternity Home is a private maternity home in Ashanti, Akwasiase Ghana.",
+        "facts": {
+            "specialties": [
+                "obstetrics",
+                "gynecology"
+            ],
+            "services": [
+                "maternity care"
+            ],
+            "equipment": [],
+            "capability": [
+                "private"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "bd6191ea-b7b2-41a8-b50e-13696efdc4df",
+        "name": "Aneeja Hospital",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "Ghana's finest French-English hospital. Our medical team consists of 87 French and Ghanaian medical professionals who are at your service 24/7, with French-English bilingual co-founders, a consultant surgeon and a paediatrician. The hospital consists of a team of general practitioners, surgeons & anaesthetists, paediatricians, gynaecologists, an urologist, a physiotherapist, optometrists, dentists, midwives and nurses. It disposes of two operating theatres with a recovery room, an IVF unit, three children\u2019s wards (including one VIP) in the paediatric section, VIP and common wards with an overall capacity of thirty-nine beds, a delivery and lying-in ward, a well-equipped standard laboratory, medical imaging services (Ultrasound & ECG), and a treatment room. NHIS and other private insurance clients are welcome; Ghanaians and foreigners benefit from the same rates.",
+        "facts": {
+            "specialties": [
+                "Pediatrics",
+                "Gynecology",
+                "Urology",
+                "Physiotherapy",
+                "Optometry",
+                "Dentistry",
+                "Midwifery"
+            ],
+            "services": [
+                "Pharmacy",
+                "Laboratory",
+                "Outpatient",
+                "Consultation",
+                "Prevention",
+                "IVF",
+                "Medical imaging"
+            ],
+            "equipment": [
+                "Ultrasound",
+                "ECG"
+            ],
+            "capability": [
+                "24-hour service",
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "1ea0dfd7-a401-4458-8bc4-d6323f303a47",
+        "name": "Anfoega Catholic Hospital",
+        "type": "hospital",
+        "city": "Anfoega",
+        "description": "Anfoega Catholic Hospital, a District Hospital located in Anfoega, Volta Region, Ghana",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "District Hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "79bef83e-1410-4705-902c-96650a4c10b3",
+        "name": "Angela Catholic Clinic",
+        "type": "clinic",
+        "city": "New Takoradi",
+        "description": "The clinic is situated near Kerstin Int.School at Sehwi-Yawmatwa in the Bia-West District, Western Region, Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "476fb748-91bf-42a8-b9fa-b48922a38c71",
+        "name": "Anhwiaso Health Centre",
+        "type": NaN,
+        "city": NaN,
+        "description": "Health Centre with general medical services; NHIS accredited.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "general medical services"
+            ],
+            "equipment": [],
+            "capability": [
+                "Health Centre",
+                "NHIS accredited"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "50105169-0025-49f2-8ff3-ee38e3c82ba0",
+        "name": "Ankaful Leprosy & General Hospital",
+        "type": "hospital",
+        "city": "Ankaful",
+        "description": "Specialist (Leprosy & other Skin conditions) and General Hospital - Ankaful",
+        "facts": {
+            "specialties": [
+                "Leprosy",
+                "Skin conditions"
+            ],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "General Hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "73043d14-e847-4dee-8e36-ebbab4a9c625",
+        "name": "Ankaful Psychiatric Hospital",
+        "type": "hospital",
+        "city": "Cape Coast",
+        "description": "The leading hospital in mental health care in Ghana and the Sub region - Center of Excellence -",
+        "facts": {
+            "specialties": [
+                "mental health care"
+            ],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Center of Excellence"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "bf6282b9-e240-4685-92de-c39fa32e5e61",
+        "name": "Anthon Memorial Hospital",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "The Anthon Memorial Hospital is a primary healthcare facility located at Alajo, Accra, Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "primary healthcare facility"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "dbf058d2-1f99-43ca-9a87-c9f913c94d31",
+        "name": "Anthon Memorial Hospital",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "The Anthon Memorial Hospital is a primary healthcare facility located at Alajo, one of Accra\u2019s most densely populated low-income suburbs.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "primary healthcare facility"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "90e59dee-41d0-4c89-8a48-c7e61a51595c",
+        "name": "Anwiam Hospital",
+        "type": "hospital",
+        "city": "Kumasi",
+        "description": "Our services includes 24hr Emergency Care, General Medical Services, Internal Medicine, Surgery, Obstetrics and Gynecology, Psychiatry, Pain Medicine, etc. We also offer laboratory and medical imaging services like Full blood count, E.C.G, Ultra Sound, e.t.c",
+        "facts": {
+            "specialties": [
+                "Internal Medicine",
+                "Obstetrics and Gynecology",
+                "Psychiatry",
+                "Pain Medicine"
+            ],
+            "services": [
+                "24hr Emergency Care",
+                "General Medical Services",
+                "Internal Medicine",
+                "Surgery",
+                "Obstetrics and Gynecology",
+                "Psychiatry",
+                "Pain Medicine",
+                "Laboratory",
+                "Medical Imaging"
+            ],
+            "equipment": [
+                "Full blood count",
+                "E.C.G",
+                "Ultra Sound"
+            ],
+            "capability": [
+                "24-hour service",
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "f39dfa4e-8dd2-4d3a-bab4-df7c300da274",
+        "name": "Anyinasuso Maternity Home",
+        "type": NaN,
+        "city": "Anyinasuso",
+        "description": "Anyinasuso Maternity Home is a private maternity home in Ashanti, Anyinasuso Ghana.",
+        "facts": {
+            "specialties": [
+                "Gynecology",
+                "Obstetrics"
+            ],
+            "services": [
+                "Maternity care",
+                "Prevention"
+            ],
+            "equipment": [],
+            "capability": [
+                "Private",
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "be1f2eae-dfd4-45b9-a7ab-b143c88d2769",
+        "name": "Anyinasusu SDA Centre",
+        "type": "clinic",
+        "city": "Anyinasusu",
+        "description": "Anyinasusu SDA Centre is a chag clinic in Ashanti, Anyinasusu Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "chag clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "2b18554c-000c-405e-ad6e-08fc3de06d60",
+        "name": "APOWA HEALTH CENTRE",
+        "type": NaN,
+        "city": "Agona Nkwanta",
+        "description": "Type: Health Centre; Ownership: Government; Location: OPPOSITE GLED ACADEMY/OPHANAGE HOME, APOWA, C/O DHA BOX 49, AGONA NKWANTA; Services: General; NHIS accredited: yes",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "dc75beac-1f27-4992-b1f2-85b2d5de7b50",
+        "name": "Ares Centre of Excellence - Ghana",
+        "type": "hospital",
+        "city": "Tema",
+        "description": "Ares Centre of Excellence is a specialist referral hospital and medical logistics services provider now operating in Ghana at the International Maritime Hospital.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "specialist referral hospital",
+                "medical logistics services provider"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "ed10f57a-b4d1-4a26-94cb-b8736b2469c7",
+        "name": "Arthurs Clinic & Prostate Center",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "An ultramodern health facility in the heart of Accra that uses natural health medications for all treatments. We are among the leading specialists in Prostate Management and treatment.",
+        "facts": {
+            "specialties": [
+                "Prostate Management"
+            ],
+            "services": [
+                "Prostate Management",
+                "treatment"
+            ],
+            "equipment": [
+                "natural health medications"
+            ],
+            "capability": [
+                "ultramodern health facility",
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "64917cc9-b57b-4830-89d5-1d3f0eb025e6",
+        "name": "Asamang Seventh-day Adventist Hospital",
+        "type": "hospital",
+        "city": "Asamang",
+        "description": "Asamang Seventh-day Adventist Hospital established 1984; part of Greater Kumasi Ghana Union Conference.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Primary hospital",
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "61e1a975-b9cc-4c76-a0d6-ec46cc9d6980",
+        "name": "Asawinso Seventh-day Adventist Clinic",
+        "type": "clinic",
+        "city": "Sefwi Asawinso",
+        "description": "Organizational Unit: Western North Ghana Conference. Telecommunications: Telephone: +233 (24) 250-5507. Address: P.O. Box 16; Sefwi Asawinso; Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "1e1990d6-c82b-4a96-b703-131c9b7370d4",
+        "name": "ATEBUBU DISTRICT HOSPITAL",
+        "type": "hospital",
+        "city": "Atebubu",
+        "description": "Services: General; NHIS accredited: yes",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "General"
+            ],
+            "equipment": [],
+            "capability": [
+                "NHIS accredited"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "258091c5-8bf0-46a5-a83b-3306e9cc6df1",
+        "name": "Atlantic Eye Clinic - ICare",
+        "type": "clinic",
+        "city": "Weija",
+        "description": "Daily Eye Consultations and Treatments; Glaucoma Screening; Eye Surgeries; Refraction and Provision of",
+        "facts": {
+            "specialties": [
+                "Eye Care"
+            ],
+            "services": [
+                "Consultation",
+                "Treatment",
+                "Prevention"
+            ],
+            "equipment": [
+                "Refraction"
+            ],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "7caf1c61-6631-4a7a-918b-f26bf226509f",
+        "name": "Avril Clinic",
+        "type": "clinic",
+        "city": "Akaporiso",
+        "description": "Avril Clinic is a private clinic in Ashanti, Akaporiso Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "private clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "36b44000-d149-4e59-8197-dcf124df0da9",
+        "name": "Awuradze A' Maternity Home",
+        "type": NaN,
+        "city": "KUMASI",
+        "description": "HEALTH CENTRE licensed with a PROVISIONAL licence; PRACTITIONER IN-CHARGE: MADAM GRACE HENRIETTA MARFUL; REGION: ASHANTI; TOWN: KUMASI; DISTRICT: KUMASI METROPOLITAN; DATE OF ISSUE: 2019-09-24; DATE OF EXPIRY: 2020-03-23",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "licensed",
+                "PROVISIONAL licence"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "4ed43bf8-b732-48a0-bdd7-4177c4380e1b",
+        "name": "Axim Government Hospital",
+        "type": "hospital",
+        "city": "Axim",
+        "description": "Axim Government Hospital is a government primary hospital in Bokazo, P.o. Box 2, Axim Ghana. It offers a general services. This primary hospital is NHIS accredited.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "general services"
+            ],
+            "equipment": [],
+            "capability": [
+                "government primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "e40809f0-d76b-4757-94b7-08cdc554d122",
+        "name": "Ayeduase Health Centre",
+        "type": NaN,
+        "city": "Kumasi",
+        "description": "We are aimed at promoting good health and ensure access to quality and affordable healthcare.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "Prevention"
+            ],
+            "equipment": [],
+            "capability": [
+                "Primary hospital",
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "267201ca-e925-4d64-b13e-0036bb32b20b",
+        "name": "Azara Tampulimah Herbal Clinic",
+        "type": "clinic",
+        "city": "Tamale",
+        "description": "A traditional health center for the treatment of diseases using natural extracts from plants (herbs).",
+        "facts": {
+            "specialties": [
+                "Herbal medicine"
+            ],
+            "services": [
+                "Treatment"
+            ],
+            "equipment": [],
+            "capability": [
+                "Traditional health center"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "3388b9e2-fe11-4797-83b0-79253a284645",
+        "name": "Azimbe Hospital",
+        "type": "hospital",
+        "city": "Bawku",
+        "description": "Hospital in Atuba Binduri, Bawku, Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Primary hospital",
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "91634498-c17d-4848-8f86-c63f10d36a5e",
+        "name": "Banhart Specialist Hospital",
+        "type": "hospital",
+        "city": "Abesim - Sunyani",
+        "description": "Banhart Specialist Hospital offers comprehensive medical care with a focus on specialist services, 24-hour emergency service, extensive laboratory services, and a team of dedicated specialists.",
+        "facts": {
+            "specialties": [
+                "Specialist"
+            ],
+            "services": [
+                "Laboratory",
+                "Emergency service",
+                "Specialist services"
+            ],
+            "equipment": [],
+            "capability": [
+                "24-hour service",
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "73988ca3-c055-49ce-a735-14f6ef548ba2",
+        "name": "Baptist Medical Centre",
+        "type": "hospital",
+        "city": "Nalerigu",
+        "description": "The Baptist Medical Centre was founded in northern Ghana in 1958 by IMB missionary doctor George Faile II. Today it is a 300+ bed hospital serving tens of thousands of patients annually.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "hospital",
+                "24-hour service"
+            ],
+            "equipment": [],
+            "capability": [
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "17780ce8-96aa-42d5-b1ba-5a6d019d3388",
+        "name": "Barnor Memorial Hospital",
+        "type": "hospital",
+        "city": "Mataheko",
+        "description": "A Family Specialized Hospital with over 65 years of personalized and dedicated healthcare services.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "personalized and dedicated healthcare services"
+            ],
+            "equipment": [],
+            "capability": [
+                "Family Specialized Hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "4faeeba6-9719-411a-b3da-365f490dada6",
+        "name": "Bart-Plange Memorial Clinic",
+        "type": "hospital",
+        "city": "Agbogbloshie",
+        "description": "Bart-Plange Memorial Clinic is a private hospital in Greater Accra, Agbogbloshie Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "private hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "ed10ae3d-5d83-4641-8012-85c3ca108824",
+        "name": "Battor Catholic Hospital",
+        "type": "hospital",
+        "city": "Battor",
+        "description": "Battor Catholic Hospital is a mission primary hospital in Battor High Street Ghana. It offers a general services. This primary hospital is NHIS accredited.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "general services"
+            ],
+            "equipment": [],
+            "capability": [
+                "mission primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "7296b6fb-d6c8-46e3-b56f-f2d5ed6438e8",
+        "name": "Beaver Dental",
+        "type": "dentist",
+        "city": NaN,
+        "description": "Beaver Dental is described as Ghana's premier dentistry provider, offering accessible services in key locations including Accra-Airport Residential Area, Accra-Lapaz (St Michael\u2019s Specialist Hospital), and Kumasi-Ahodwo.",
+        "facts": {
+            "specialties": [
+                "dentistry"
+            ],
+            "services": [
+                "accessible services"
+            ],
+            "equipment": [],
+            "capability": [
+                "premier",
+                "provider"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "1d0ee1ff-f69e-46da-b58d-6a3158d9d6b5",
+        "name": "Beaver Medical",
+        "type": "clinic",
+        "city": NaN,
+        "description": "Beaver Medical \u2013 Premium medical services in Ghana; part of Beaver Health\u2019s expansion into medical services; offers comprehensive medical services; positioned as a healthcare destination in West Africa.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "Medical services"
+            ],
+            "equipment": [],
+            "capability": [
+                "Premium medical services",
+                "Comprehensive medical services",
+                "Healthcare destination"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "3542d041-63bb-442f-895d-6d56953dbb36",
+        "name": "Bechem Government Hospital",
+        "type": "hospital",
+        "city": "Bechem",
+        "description": "The Bechem Government Hospital was started by the Presbyterian Church, Ghana, as a Maternity Home in 1950 and handed over to the Bechem Community. It was finally handed over to the Ministry of Health on 1st July, 1978 as a Health Centre and currently operating as a District (Secondary) Hospital with 155 Bed Capacity.  The Hospital is a Secondary Ghana Health Service facility in the Tano South District of the Ahafo Region operating on not-for-profit basis. The Hospital serves as a Referral Hospital for all sub-district health facilities with an average daily attendance hovering around 366 patients.  The Hospital serves as the main health facility contracted for the provision of health services to clients of the Tano South District Health Insurance Scheme (TSDHIS) of the National Health Insurance Authority (NHIA).  It is the intention of the Facility to satisfy our numerous target groups, thus, patients, visitors to patients, corporate organizations, suppliers, its staff and employers of Ghana Health Service and Ministry of Health at large.  The Hospital also aims at inculcating into its staff the spirit of dedication and service to our customers/clients and to achieve a much satisfied clientele.  The Hospital has both Mission and Vision statements which are in line with the Ghana Health Service (GHS).",
+        "facts": {
+            "specialties": [
+                "Maternity",
+                "Pediatrics",
+                "Gynecology",
+                "Obstetrics",
+                "Eye Care"
+            ],
+            "services": [
+                "Health services",
+                "Provision of health services",
+                "District Health Insurance Scheme"
+            ],
+            "equipment": [],
+            "capability": [
+                "Secondary Ghana Health Service facility",
+                "District (Secondary) Hospital",
+                "Referral Hospital",
+                "Health Centre"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "aa071b04-f208-45cc-8f6a-29acabbc2113",
+        "name": "Bechem Government Hospital",
+        "type": "hospital",
+        "city": "Bechem",
+        "description": "Bechem Government Hospital was started by the Presbyterian Church as a maternity home.",
+        "facts": {
+            "specialties": [
+                "Obstetrics"
+            ],
+            "services": [
+                "Maternity care"
+            ],
+            "equipment": [],
+            "capability": [
+                "24-hour service",
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "741ba597-d3fe-4519-a7b9-820a7a90f920",
+        "name": "Bengali Hospital",
+        "type": "hospital",
+        "city": "Tema",
+        "description": "Bengali hospital is an accredited private hospiital which aims to provide medical services to the general public and also a provider-oriented service.First and foremost is respect followed by service given in a high quality, very safe manner.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "medical services",
+                "high quality service"
+            ],
+            "equipment": [],
+            "capability": [
+                "private hospital",
+                "provider-oriented service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "b91bcee7-b995-4770-9dbf-69a9d2a9a805",
+        "name": "Benso Health Centre - Ghana",
+        "type": NaN,
+        "city": "Benso",
+        "description": "Benso Health Centre is a government health centre in Western, Benso Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "government health centre"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "56f2e3db-8ed3-4f42-8f3e-761f0e850d49",
+        "name": "Best Care Natural Clinic",
+        "type": "clinic",
+        "city": "Tamale",
+        "description": "Your trusted destination for exceptional healthcare, blending natural therapies with cutting-edge medical expertise.",
+        "facts": {
+            "specialties": [
+                "natural therapies"
+            ],
+            "services": [
+                "healthcare"
+            ],
+            "equipment": [],
+            "capability": [
+                "exceptional",
+                "cutting-edge",
+                "medical expertise"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "13bfd31c-29a4-490f-bbbf-028d92dff234",
+        "name": "Beulah Land International Hospital",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "We are UK and USA Christian Missionary Wholistic Healthcare Provider in Accra, Ghana. We provide comprehensive medical care. Our mission is to be the number one provider of private but affordable healthcare and medical intervention within Accra, Ghana. We aim also, to provide free medical care to all religious leaders, with specific emphasis on retired Christian pastors, irrespective of their illnesses. Our Purpose is to become the first private Teaching Hospital with Affiliates in the USA and the UK.",
+        "facts": {
+            "specialties": [
+                "Wholistic Healthcare",
+                "Christian Missionary Healthcare"
+            ],
+            "services": [
+                "Comprehensive medical care",
+                "Medical intervention",
+                "Pharmacy",
+                "Laboratory",
+                "Outpatient",
+                "Consultation",
+                "Prevention"
+            ],
+            "equipment": [],
+            "capability": [
+                "Private hospital",
+                "Affordable healthcare",
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "70816bee-5bee-48b9-a90a-e509de2ac5bf",
+        "name": "Bibiani Municipal Hospital",
+        "type": "hospital",
+        "city": "Bibiani",
+        "description": "Bibiani Municipal Hospital is a hospital that prides itself to provide quality service by staff who are well motivated, disciplined, competent and client-oriented in a comfortable working environment and also become the center of excellence in healthcare",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "quality service"
+            ],
+            "equipment": [],
+            "capability": [
+                "center of excellence in healthcare"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "b0a558a3-9e01-4c9d-8f75-c1b99c0e1bb6",
+        "name": "Bimbilla Hospital",
+        "type": "hospital",
+        "city": "Bimbilla",
+        "description": "Bimbilla Hospital is a government primary hospital in Northern, Bimbilla Ghana. It offers a general services. This primary hospital is NHIS accredited.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "general services"
+            ],
+            "equipment": [],
+            "capability": [
+                "government primary hospital",
+                "24-hour service",
+                "primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "cf65d854-c79e-4d96-ab42-07e5c4c1ea07",
+        "name": "Blackwood Optometry",
+        "type": NaN,
+        "city": "Tema",
+        "description": "Premium Optometry Service",
+        "facts": {
+            "specialties": [
+                "Eye Care"
+            ],
+            "services": [],
+            "equipment": [
+                "Optometry Service"
+            ],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "dfa9833f-2d9d-4906-b767-03968907a3ec",
+        "name": "Blessings Clinic",
+        "type": "hospital",
+        "city": "Tesano",
+        "description": "Blessings Clinic is a private hospital in Greater Accra, Tesano Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "private hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "3efe4c64-9304-452b-aab5-0297f2fa36a6",
+        "name": "Blueprint DNA Organization",
+        "type": NaN,
+        "city": "Accra",
+        "description": "Paternity and DNA testing experts. Available Nationwide and overseas. We provide advocacy and education on genetic and relationship testing.",
+        "facts": {
+            "specialties": [
+                "Genetics",
+                "Relationship testing"
+            ],
+            "services": [
+                "Advocacy",
+                "Education"
+            ],
+            "equipment": [],
+            "capability": [
+                "Nationwide",
+                "Overseas"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "033207c6-18be-47a7-8acf-e8052dc62ac4",
+        "name": "Boafo Yena Clinic",
+        "type": "clinic",
+        "city": "Ahimakrom",
+        "description": "Boafo Yena Clinic is a private CHPS in Western, Ahimakrom Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "private",
+                "CHPS"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "adb079ad-81f9-4266-b7b0-bbc1c0fed955",
+        "name": "Bodi Anglican Clinic - Ghana",
+        "type": "clinic",
+        "city": NaN,
+        "description": "Bodi Anglican Clinic is a chag clinic in Western, Sefwi Bodi Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "chag clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "7ad8d7cb-153a-4c2a-81bb-c8fcf646cfc2",
+        "name": "Boinzan Anglican Clinic",
+        "type": "clinic",
+        "city": "Sefwi Boinzan",
+        "description": "Boinzan Anglican Clinic is a mission health centre in Boinzan P.o. Box 104 Sefwi Boinzan Ghana. It offers general services. This health centre is NHIS accredited.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "general services"
+            ],
+            "equipment": [],
+            "capability": [
+                "mission health centre",
+                "NHIS accredited"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "791f5eb0-8db0-4bf3-857e-300ebd61e00c",
+        "name": "Bre Nye Kwa Hospital",
+        "type": "hospital",
+        "city": "Berekum",
+        "description": "Bre Nye Kwa Hospital is a government hospital in Brong Ahafo, Berekum Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "government hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "98d70a38-2641-4cfb-a364-3101779e1926",
+        "name": "Brebre CHPS",
+        "type": NaN,
+        "city": "Brebre",
+        "description": "Brebre CHPS is a government CHPS in Western, Brebre Ghana.",
+        "facts": {
+            "specialties": [
+                "Pediatrics"
+            ],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "government CHPS"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "48a7e90e-387e-4e8b-9f7e-590912cfa655",
+        "name": "Bromley Park Dental Clinic",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "It All Begins With a Smile. Restorative Dentistry,General Dentistry, Teeth whitening,Implants, Braces",
+        "facts": {
+            "specialties": [
+                "Restorative Dentistry",
+                "General Dentistry"
+            ],
+            "services": [
+                "Teeth whitening",
+                "Implants",
+                "Braces"
+            ],
+            "equipment": [],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "cf46f1d0-ef4a-4fdd-aa00-0d37ada49335",
+        "name": "Bryant Mission Hospital",
+        "type": "hospital",
+        "city": "Obuasi",
+        "description": "BRYANT MISSION HOSPITAL is a PRIMARY HOSPITAL located in Obuasi, Obuasi Municipal, Ashanti Region, Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "PRIMARY HOSPITAL"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "20e6b0bd-cae8-4c17-b3d3-c5810837fa93",
+        "name": "Busybitesdentalgh",
+        "type": "dentist",
+        "city": "East Legon",
+        "description": "We provide a 5-star dental experience at affordable prices.",
+        "facts": {
+            "specialties": [
+                "Dentistry"
+            ],
+            "services": [
+                "Prevention"
+            ],
+            "equipment": [],
+            "capability": [
+                "Affordable prices",
+                "5-star experience"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "637a0a14-4b1a-4b8e-8210-7f7986ca0797",
+        "name": "C.H.I.L.D. & Associates",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "Welcome to C.H.I.L.D (Centre for the Health, Immunization, Learning & Development of Children), Ghana's premiere pediatric and public health centre.",
+        "facts": {
+            "specialties": [
+                "pediatrics",
+                "public health"
+            ],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "pediatric",
+                "public health centre"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "b827ef17-e975-4d12-ae37-f86533e54c31",
+        "name": "CAMFAP Maternity Clinic",
+        "type": "clinic",
+        "city": NaN,
+        "description": "CAMFAP Maternity Clinic is a private clinic in Ashanti, New Kokobiriko (Abijan-Nkwant Ghana.",
+        "facts": {
+            "specialties": [
+                "Maternity"
+            ],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "private clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "762744b4-d3d8-4be3-8971-fc8d2359fa55",
+        "name": "Cape Coast Teaching Hospital",
+        "type": "hospital",
+        "city": "Tamale",
+        "description": "Tamale Teaching Hospital (TTH) was commissioned in 1974 as a Regional Hospital and upgraded to a Teaching Hospital in 2009; serves as a premier tertiary health facility in the Northern Region of Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Regional Hospital",
+                "Teaching Hospital",
+                "premier tertiary health facility"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "d184aec3-12db-45ef-96db-b193428b09a5",
+        "name": "Care360 Medical Centre",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "Care360 Medical Centre is a state-of-the-art healthcare facility committed to providing exceptional medical services and compassionate care. Located in a prime area, our centre is dedicated to enhancing the health and well-being of our community. Free scaling and polishing for NHIS holders from 1st to 30th April 2025.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "exceptional medical services",
+                "compassionate care"
+            ],
+            "equipment": [],
+            "capability": [
+                "state-of-the-art",
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "e6a150ba-f610-41a3-90c8-4f0c010ce132",
+        "name": "Carelinx Home Healthcare Agency",
+        "type": NaN,
+        "city": "Agbogba",
+        "description": "We assist our clients to maintain their independence and quality of life in their own home.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "Prevention"
+            ],
+            "equipment": [],
+            "capability": [
+                "Primary hospital",
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "35cf049f-2029-45fc-ad9d-430843a66a27",
+        "name": "Cathedral Herbal & Fertility Clinic",
+        "type": "clinic",
+        "city": NaN,
+        "description": "Herbal and alternative medicine clinic located at Liberia Camp",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Herbal and alternative medicine clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "5c26219e-64e0-461d-9887-1341eadf6c8a",
+        "name": "Catholic Hospital Battor",
+        "type": "hospital",
+        "city": "Battor",
+        "description": "Catholic Hospital Battor is a hospital located in Battor, in the Volta Region of Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "d7986da3-bd8a-4791-895a-3ed5899519e9",
+        "name": "Catholic Hospital, Anfoega",
+        "type": "hospital",
+        "city": NaN,
+        "description": "We Provide 24-hr Quality Healthcare Services.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "Healthcare Services"
+            ],
+            "equipment": [],
+            "capability": [
+                "24-hr service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "4b0410ba-7453-45ff-aef8-a1749d9e87ba",
+        "name": "Center for Cosmetic Surgery, Ghana",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "The Premier Cosmetic Surgery Center in Accra. Laser Liposuction(SmartLipo),Tummy Tuck, Breast Lift, Natural Breast Augmentation. Botox,Juvederm, Restylane, Radiesse,Vampire Facelift, Laser Varicose Vein Closure.",
+        "facts": {
+            "specialties": [
+                "Cosmetic Surgery",
+                "Plastic Surgery"
+            ],
+            "services": [
+                "Laser Liposuction",
+                "Tummy Tuck",
+                "Breast Lift",
+                "Natural Breast Augmentation",
+                "Botox",
+                "Vampire Facelift",
+                "Laser Varicose Vein Closure"
+            ],
+            "equipment": [
+                "Laser",
+                "Juvederm",
+                "Restylane",
+                "Radiesse",
+                "Laser Liposuction machine",
+                "Laser Varicose Vein Closure machine"
+            ],
+            "capability": [
+                "Cosmetic Surgery"
+            ]
+        },
+        "audit": {
+            "is_flagged": true,
+            "risk_score": 2,
+            "flags": [
+                "CRITICAL: Registry lists as 'clinic', but AI extracted SURGERY. Possible resource misallocation."
+            ]
+        }
+    },
+    {
+        "unique_id": "45180d4c-7d9f-4bba-aae2-17b1e96397fa",
+        "name": "Central Dansoman Clinic",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "Personalized patient care is what sets Central Dansoman Clinic apart. When you visit one of our premises, you can expect to receive world-class care. Expert physician specialists and caring clinical staff provide you with an exceptional health care experience.",
+        "facts": {
+            "specialties": [
+                "Physician specialists"
+            ],
+            "services": [
+                "Health care experience"
+            ],
+            "equipment": [],
+            "capability": [
+                "World-class care",
+                "Premises"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "46da2023-b52a-4cb5-8466-6ae671361856",
+        "name": "Central Dansoman Clinic",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "Central Dansoman Clinic is an ultra modern first class Medical center within the heart of Dansoman. At CDC our aim is to give you the best clinical experience and its the reason we take pride in being a center of clinical excellence.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "first class",
+                "center of clinical excellence"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "3cad5748-41d1-46bf-a627-7f61494c8cb3",
+        "name": "Central Regional Police Clinic",
+        "type": NaN,
+        "city": "Ghana",
+        "description": "The Ghana Police Hospital page lists Satellite Clinics including Central Regional Police Clinic.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Police Hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "ffe520ae-bd91-4013-84cc-77d807062ccc",
+        "name": "Centre for Plant Medicine Research",
+        "type": NaN,
+        "city": "Mampong-Akwapim",
+        "description": "Centre for Plant Medicine Research (CPMR), formerly known as the Centre for Scientific Research into Plant Medicine (CSRPM), Mampong-Akwapim, was established by the Government of Ghana in 1975.",
+        "facts": {
+            "specialties": [
+                "Plant Medicine"
+            ],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Government of Ghana"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "e27df41b-0edb-470d-8bec-f32bc86bee08",
+        "name": "Certa Medical Diagnostics",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "A provider of quality, reliable and convenient ULTRASOUND scans. Specialties: Abdomen/ObGyn/Urology/Doppler/Breast/Scrotal/Thyroid/MSK/Small parts",
+        "facts": {
+            "specialties": [
+                "Abdomen",
+                "ObGyn",
+                "Urology",
+                "Doppler",
+                "Breast",
+                "Scrotal",
+                "Thyroid",
+                "MSK",
+                "Small parts"
+            ],
+            "services": [],
+            "equipment": [
+                "ULTRASOUND scans"
+            ],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": true,
+            "risk_score": 2,
+            "flags": [
+                "CRITICAL: Registry lists as 'clinic', but AI extracted ULTRASOUND. Possible resource misallocation."
+            ]
+        }
+    },
+    {
+        "unique_id": "d23ba8e3-87dc-4bd2-9ad5-3c27e4090ccf",
+        "name": "Chirano Health Centre",
+        "type": NaN,
+        "city": "Bibiani",
+        "description": "Type: Health Centre; Ownership: Government; Location: BOX 108 Bibiani; Tel: +233244709402; Services: General; NHIS accredited: yes.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "General"
+            ],
+            "equipment": [],
+            "capability": [
+                "Government",
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "1746d914-9aef-44e4-bf3f-584d90a3c8b8",
+        "name": "Chrispod Hospital & Diagnostic Center",
+        "type": "hospital",
+        "city": "Dome",
+        "description": "Chrispod Hospital & Diagnostic Center is a private 120-bed hospital in Dome, Ga East Municipality, Greater Accra Region. It operates a 30-body capacity mortuary, two fully equipped operating theatres, a labour room, a 15-bed newborn ward, separate wards for men, women and children, a diagnostic department with radiology modalities (MRI, CT, X-ray, mammography) and a laboratory providing comprehensive diagnostic testing. The hospital provides 24/7 ambulance service and is NHIS-accredited. Founding information includes Mr. Christian Kpodo as founder; ENT specialists Dr. Kamal Walid Amer and Dr. Daniel Clottey; the hospital is led by private sector management.",
+        "facts": {
+            "specialties": [
+                "ENT",
+                "Pediatrics",
+                "Gynecology",
+                "Obstetrics",
+                "Eye Care"
+            ],
+            "services": [
+                "ambulance service",
+                "laboratory services",
+                "radiology services"
+            ],
+            "equipment": [
+                "MRI",
+                "CT",
+                "X-ray",
+                "mammography",
+                "ambulance"
+            ],
+            "capability": [
+                "private hospital",
+                "120-bed hospital",
+                "24/7 service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "646791cd-547e-4b07-bfc9-6eb124b57540",
+        "name": "Chrispod Hospital & Diagnostic Centre",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "A 24-hour operating private health care facility, established to serve the growing population of Dome and its environs. The hospital is categorized under primary health hospital.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "24-hour operating",
+                "private health care facility",
+                "primary health hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "c4dd469b-ca9f-4b5d-844b-991fc19c6cff",
+        "name": "Chrispod Hospital and Diagnostic Center",
+        "type": "hospital",
+        "city": "Dome",
+        "description": "NHIS-accredited hospital located in Dome near Parakuo Estates in the Ga East Municipality, Greater Accra Region. It is a 120-bed facility with separate wards for men, women and children, two fully equipped operating theatres, recovery rooms, a 15-bed newborn ward, and a 30-body capacity mortuary. The hospital provides Laboratory Services and Radiology, including MRI, CT, X-Ray and Mammography, and CHDC Pharmaceutical Care. It operates a 24/7 ambulance service.",
+        "facts": {
+            "specialties": [
+                "Pediatrics",
+                "Gynecology",
+                "Obstetrics",
+                "Eye Care"
+            ],
+            "services": [
+                "Laboratory Services",
+                "Radiology",
+                "CHDC Pharmaceutical Care"
+            ],
+            "equipment": [
+                "MRI",
+                "CT",
+                "X-Ray",
+                "Mammography",
+                "ambulance"
+            ],
+            "capability": [
+                "NHIS-accredited hospital",
+                "120-bed facility",
+                "24/7 service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "608ab2f8-e202-476c-a0b4-64ddcb35419a",
+        "name": "Christ Soteria Health Centre",
+        "type": NaN,
+        "city": "KRONUM",
+        "description": "Health Centre with provisional licence; issue date 2019-09-24; expiry 2020-03-23; Practitioner in charge: REV. BOASIAKO ANTWI.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Health Centre"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "16bf8114-9d0c-4a1c-80b9-ae4c9614e6a1",
+        "name": "Christian Medical Dental Services",
+        "type": "dentist",
+        "city": "Nungua",
+        "description": "We provide professional dental solutions with modern technology and equipment. Services include : General Dentistry, Oral Surgery, Dental Implants, Pediatric Dentistry, Prosthodontics, Orthodontic Braces, Cosmetic Dentistry, Teeth Whitening",
+        "facts": {
+            "specialties": [
+                "Pediatric Dentistry",
+                "Prosthodontics"
+            ],
+            "services": [
+                "General Dentistry",
+                "Oral Surgery",
+                "Dental Implants",
+                "Pediatric Dentistry",
+                "Prosthodontics",
+                "Orthodontic Braces",
+                "Cosmetic Dentistry",
+                "Teeth Whitening"
+            ],
+            "equipment": [
+                "modern technology"
+            ],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": true,
+            "risk_score": 2,
+            "flags": [
+                "CRITICAL: Registry lists as 'dentist', but AI extracted SURGERY. Possible resource misallocation."
+            ]
+        }
+    },
+    {
+        "unique_id": "f31cb277-c33e-4a79-bef4-eacb5196824a",
+        "name": "Church of Christ Health Centre",
+        "type": "hospital",
+        "city": "Yendi",
+        "description": "Hospital in Yendi, Ghana",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "441e91f1-fc3d-4753-a8ac-99ceb92522e3",
+        "name": "City Centre Clinic",
+        "type": "clinic",
+        "city": "KUMASI METROPOLITAN",
+        "description": "LICENCE: PROVISIONAL",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "b9324a1e-5be4-45ab-988b-c0453d6da3e0",
+        "name": "City of Hope",
+        "type": NaN,
+        "city": "Accra",
+        "description": "Fertility Center; Gynaecology Center; DNA Center.",
+        "facts": {
+            "specialties": [
+                "Gynaecology"
+            ],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Fertility Center",
+                "Gynaecology Center",
+                "DNA Center"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "10541f6d-5d7c-4f84-b5b4-a8feaeea5c54",
+        "name": "Claron Health International \u2013 No 2, Dodi Link, Between Volta Street and Akosombo Road, Airport Residential, Accra, Ghana",
+        "type": NaN,
+        "city": "Accra",
+        "description": "Claron is an innovative and holistic health maintenance organization, involved in the delivery of medical, preventive and occupational health services to corporate clients in Ghana and the West African sub-region.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "medical services",
+                "preventive services",
+                "occupational health services"
+            ],
+            "equipment": [],
+            "capability": [
+                "holistic health maintenance organization",
+                "delivery of services to corporate clients"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "9604eaaf-3315-4e0d-a8e4-b7eb5dd41cac",
+        "name": "Community 22 Polyclinic",
+        "type": "hospital",
+        "city": "Tema",
+        "description": "A new ultra-modern GHS Polyclinic mainly serving residents of Ashaiman and Tema. The facility has an operating theatre, laboratory, maternity ward, Out Patient Department, Ultrasound Scan, Paediatric wards, Eye, ENT, CWC, Family Planning Services",
+        "facts": {
+            "specialties": [
+                "Pediatrics",
+                "Eye Care",
+                "ENT",
+                "Family Planning"
+            ],
+            "services": [
+                "Laboratory",
+                "Out Patient Department",
+                "Family Planning Services"
+            ],
+            "equipment": [
+                "Ultrasound Scan"
+            ],
+            "capability": [
+                "24-hour service",
+                "polyclinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "b592415a-e354-4105-9e93-329789caae98",
+        "name": "Community Dental Practice",
+        "type": "dentist",
+        "city": "Tema",
+        "description": "Our clients are our priority and our goal is to improve clients' health,appearance & confidence.",
+        "facts": {
+            "specialties": [
+                "Plastic Surgery"
+            ],
+            "services": [
+                "Consultation"
+            ],
+            "equipment": [],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": true,
+            "risk_score": 2,
+            "flags": [
+                "CRITICAL: Registry lists as 'dentist', but AI extracted SURGERY. Possible resource misallocation."
+            ]
+        }
+    },
+    {
+        "unique_id": "0fa1790a-7a38-494a-8806-cedc0f36bc97",
+        "name": "Core Care Diagnostic Centre",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "Core Care Diagnostic Centre ( Labs - Scans - E.C.G ) Home Nursing - Health Screening - Health Education",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "Home Nursing",
+                "Health Screening",
+                "Health Education"
+            ],
+            "equipment": [
+                "Labs",
+                "Scans",
+                "E.C.G"
+            ],
+            "capability": [
+                "Diagnostic Centre"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "960a9f2e-72c6-438a-87f8-b6979adf8dae",
+        "name": "Cosmopolitan Medical Centre",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "We are a health center that offers comprehensive medical care to the general public, which includes but not limited to surgeries, maternity, pharmacy and optical care. Our range of services are provided by highly trained and professional staff.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "surgeries",
+                "maternity",
+                "pharmacy",
+                "optical care"
+            ],
+            "equipment": [],
+            "capability": [
+                "comprehensive medical care",
+                "general public"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "06d1a159-a6ab-4c6c-8166-ba93e85fdab1",
+        "name": "County Hospital Ghana",
+        "type": "hospital",
+        "city": "Kumasi",
+        "description": "Award-winning service!",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "Prevention"
+            ],
+            "equipment": [],
+            "capability": [
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "d1fde218-e817-4fc5-8560-4711c73fee02",
+        "name": "County Hospital Ghana",
+        "type": "hospital",
+        "city": "Kumasi",
+        "description": "Award-winning service!",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "Prevention"
+            ],
+            "equipment": [],
+            "capability": [
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "5f692d7d-c5c9-4d30-9be6-60eac1e6f83f",
+        "name": "Craddle Care Maternity Hospital Trust",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "Solutions for women by a woman to provide evidence based care to improve the high maternal mortality",
+        "facts": {
+            "specialties": [
+                "Gynecology",
+                "Obstetrics"
+            ],
+            "services": [
+                "Prevention",
+                "Consultation"
+            ],
+            "equipment": [],
+            "capability": [
+                "Primary hospital",
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "59e70adb-79dd-4623-aeb6-b62b725483b6",
+        "name": "Crystal Eye Clinic",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "Our Vision: To be a world class eye-care provider. Our Mission: To provide affordable quality eye-care in an accessible, safe and friendly environment. Services include Frames & Lenses, Yag Laser Capsulotomy, Eye Surgery, Refraction, Cornea Transplant, and Visual Field Test.",
+        "facts": {
+            "specialties": [
+                "Eye Care"
+            ],
+            "services": [
+                "Frames & Lenses",
+                "Yag Laser Capsulotomy",
+                "Eye Surgery",
+                "Refraction",
+                "Cornea Transplant",
+                "Visual Field Test"
+            ],
+            "equipment": [],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": true,
+            "risk_score": 2,
+            "flags": [
+                "CRITICAL: Registry lists as 'clinic', but AI extracted SURGERY. Possible resource misallocation."
+            ]
+        }
+    },
+    {
+        "unique_id": "41084422-a8b6-4fab-bfa8-2226d427277b",
+        "name": "Crystal Eye Clinic Ghana",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "Founded in 2003 by Dr. James and Dr. Mrs. Edith Clarke; located in Accra, Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "06db833f-3808-4b7d-8a9c-f4cdd1dc8ea6",
+        "name": "Cura Healthcare Services",
+        "type": NaN,
+        "city": "Accra",
+        "description": "A leading provider of quality, reliable and convenient ultrasound scans. Delivering diagnostic imaging you can trust.",
+        "facts": {
+            "specialties": [
+                "Ultrasound"
+            ],
+            "services": [
+                "Diagnostic imaging"
+            ],
+            "equipment": [
+                "Ultrasound scans"
+            ],
+            "capability": [
+                "Leading provider",
+                "Quality",
+                "Reliable",
+                "Convenient"
+            ]
+        },
+        "audit": {
+            "is_flagged": true,
+            "risk_score": 2,
+            "flags": [
+                "CRITICAL: Registry lists as 'nan', but AI extracted ULTRASOUND. Possible resource misallocation."
+            ]
+        }
+    },
+    {
+        "unique_id": "b5142559-6803-4936-8e5b-64cc0c5a4f6e",
+        "name": "Dakopon Hospital",
+        "type": "hospital",
+        "city": "Tikrom",
+        "description": "Dakopon Hospital is a hospital in Tikrom, Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "530ac3a9-76b2-4bc7-8dae-17beb5d1f249",
+        "name": "Dakopon Hospital",
+        "type": "hospital",
+        "city": "Kumasi",
+        "description": "General and Specialist Hospital",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "Hospital"
+            ],
+            "equipment": [],
+            "capability": [
+                "General",
+                "Specialist"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "ac663aea-39ca-4aed-aa84-25a8e31b9459",
+        "name": "Dakopon Specialist Hospital",
+        "type": "hospital",
+        "city": "Tikrom",
+        "description": "Dakopon Specialist Hospital is a hospital referenced as such in a social media post, with services including general medicine, general surgery, women's health, obstetrics and gynecology (OBGYN), family planning, child health, child welfare clinic, laboratory and ultrasound, and home care service.",
+        "facts": {
+            "specialties": [
+                "OBGYN"
+            ],
+            "services": [
+                "general medicine",
+                "general surgery",
+                "women's health",
+                "obstetrics and gynecology",
+                "family planning",
+                "child health",
+                "child welfare clinic",
+                "laboratory",
+                "ultrasound",
+                "home care service"
+            ],
+            "equipment": [
+                "ultrasound"
+            ],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "de848c00-0dd7-435f-84af-7ef18907f94d",
+        "name": "Daksa Dental Clinic",
+        "type": "clinic",
+        "city": "Kumasi",
+        "description": "The best dental clinic among the rest.we deal with all kinds of dental issue",
+        "facts": {
+            "specialties": [
+                "Dentistry"
+            ],
+            "services": [
+                "dental issue"
+            ],
+            "equipment": [],
+            "capability": [
+                "dental clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "4bf2aca7-c7a4-49b0-b268-9c4510daaa7e",
+        "name": "Dande Natural Herbal Clinic",
+        "type": "clinic",
+        "city": "Techiman",
+        "description": "Everything about Dande Natural Herbal Center is Health Care. No matter the condition, your problems will be solved within no time. Dande Natural Herbal Center, we diagnose with a machine and treat you one time.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "diagnosis",
+                "treatment"
+            ],
+            "equipment": [
+                "machine"
+            ],
+            "capability": [
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "15cc5dd9-6b22-4649-8780-16fa10f0d32c",
+        "name": "Dangme WEST Hospital Complex",
+        "type": "hospital",
+        "city": "Dodowa",
+        "description": "We do general hospital services to all KINDS OF SICKNESS/DISEASES and LAB TEST.",
+        "facts": {
+            "specialties": [
+                "General medicine"
+            ],
+            "services": [
+                "General hospital services"
+            ],
+            "equipment": [
+                "Lab test"
+            ],
+            "capability": [
+                "General hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "9878f275-5678-44cb-8140-2c19de93f060",
+        "name": "DANK Natural Healthcare Complex",
+        "type": "clinic",
+        "city": "Kumasi",
+        "description": "Dank Natural Healthcare Complex is a certified herbal center and clinic approved by Min of health",
+        "facts": {
+            "specialties": [
+                "herbalism"
+            ],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "certified herbal center",
+                "clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "317d2217-3dc4-4ef8-ba0a-631af3a87258",
+        "name": "Danpong HealthCare",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "Danpong HealthCare is a private healthcare network in Accra, Ghana. It started as Danpong Pharmacy in 1989 and has grown into a multi-service healthcare provider offering imaging, general clinic, ENT, medical lab, pharmacy, X-ray, urology, ambulance service, paediatrics, dietetics, diabetic and hypertensive clinic, homecare (Danpong on Wheels), dental, psychology, optometry and orthopedic clinics.",
+        "facts": {
+            "specialties": [
+                "ENT",
+                "paediatrics",
+                "urology",
+                "dietetics",
+                "diabetic and hypertensive clinic",
+                "dental",
+                "psychology",
+                "optometry",
+                "orthopedic"
+            ],
+            "services": [
+                "general clinic",
+                "ENT",
+                "medical lab",
+                "pharmacy",
+                "urology",
+                "paediatrics",
+                "dietetics",
+                "diabetic and hypertensive clinic",
+                "homecare",
+                "dental",
+                "psychology",
+                "optometry",
+                "orthopedic clinics"
+            ],
+            "equipment": [
+                "imaging",
+                "X-ray",
+                "ambulance service"
+            ],
+            "capability": [
+                "private healthcare network",
+                "multi-service healthcare provider"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "8035306c-d666-4471-b9a1-d9b43806e81f",
+        "name": "Danpong Healthcare",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "At Danpong Healthcare, we believe in accessible healthcare for all, ensuring you have the resources and support to lead a healthier life.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "accessible healthcare"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "66e6c4fe-5f65-4703-8712-d51db5d095c8",
+        "name": "Dar-Bem Clinic",
+        "type": "clinic",
+        "city": "Ashaiman",
+        "description": "Dar-Bem Clinic at Ashaiman near Tema has vacancies including Administrator, Medical Officer (Full Time), Medical/Physician Assistant (Full Time), Sonographer (Full Time). Visiting Specialists include Ophthalmologist, Gynaecologist, ENT Specialist. Applicants should send CVs to the premises opposite Ghana Commercial Bank Ashaiman Branch or call the clinic on 0302-306841.",
+        "facts": {
+            "specialties": [
+                "Ophthalmology",
+                "Gynaecology",
+                "ENT Specialist"
+            ],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Full Time",
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "6a076177-5c35-4263-9cab-e07aa0313e53",
+        "name": "De Santi Dental Clinic",
+        "type": NaN,
+        "city": "Accra",
+        "description": "Creating beautiful smile and providing best oral care",
+        "facts": {
+            "specialties": [
+                "Oral Care"
+            ],
+            "services": [
+                "Oral Care"
+            ],
+            "equipment": [],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "d994a0d9-09b9-462d-92bf-3c784d22ffbc",
+        "name": "DEL Dental and Implant Clinic",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "At DEL Dental and Implant Clinic your overall Oral Health is our primary concern. Visit us today.",
+        "facts": {
+            "specialties": [
+                "Oral Health"
+            ],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Primary concern"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "ae6f8d14-7dc4-47d8-a703-b202a12e2fd8",
+        "name": "DEL International Hospital",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "We are an ultra-modern hospital providing varying in-patient and out-patient services to the Accra Metropolis in Greater Accra Region, Ghana and even beyond. Located opposite the PH Hotel, East Legon.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "in-patient services",
+                "out-patient services"
+            ],
+            "equipment": [],
+            "capability": [
+                "ultra-modern hospital",
+                "in-patient services",
+                "out-patient services",
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "d062ff9a-29aa-4216-be68-86ac9382cd52",
+        "name": "Deseret Hospital Accra Ghana",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "Not Limited To: Dental; Maternal & Child Healthcare; General Surgery; General Out Patient; Diabetic Clinic; Family Planning; Laboratory; Physiotherapy; National Health Insurance Services. Serving Ghana Since 1979.",
+        "facts": {
+            "specialties": [
+                "Dental",
+                "Maternal & Child Healthcare",
+                "General Surgery"
+            ],
+            "services": [
+                "General Out Patient",
+                "Diabetic Clinic",
+                "Family Planning",
+                "Laboratory",
+                "Physiotherapy",
+                "National Health Insurance Services"
+            ],
+            "equipment": [],
+            "capability": [
+                "Serving Ghana Since 1979",
+                "Not Limited To"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "25423a17-d363-4bae-b5ab-4d2541e5c363",
+        "name": "Destiny Hospital",
+        "type": "hospital",
+        "city": "Kumasi",
+        "description": "Private Healthcare facility at Kumasi Amanfrom",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Private Healthcare facility"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "9ab958ea-5515-4396-9877-d17dac070f3e",
+        "name": "Dexter Medical Centre",
+        "type": "clinic",
+        "city": "Sunyani",
+        "description": "We provide world-class Primary and Specialist healthcare in the context of the Family n the Community",
+        "facts": {
+            "specialties": [
+                "Specialist healthcare"
+            ],
+            "services": [
+                "Family",
+                "Community"
+            ],
+            "equipment": [],
+            "capability": [
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "c9ee20f0-88b7-4f6b-a31d-ef8f8880f7a6",
+        "name": "Divine Sanitas Medical Center",
+        "type": "clinic",
+        "city": "Kasoa",
+        "description": "Divine Sanitas Medical Center, is a well equipped diagnostic and treatment Clinic located at Kasoa by the main overhead Bridge in the Central Region of Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [
+                "well equipped"
+            ],
+            "capability": [
+                "diagnostic",
+                "treatment",
+                "clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "84b40f0a-f860-4881-b7cd-557ea24c21fd",
+        "name": "Divine Smile Dental Care",
+        "type": "dentist",
+        "city": "Ejisu",
+        "description": "A smile speaks a thousand words. A patient-centered practice with welcoming staff and a serene environment to cater for all your dental needs. Located on the KNUST-EJISU HIGHWAY.",
+        "facts": {
+            "specialties": [
+                "dentistry"
+            ],
+            "services": [
+                "dental care"
+            ],
+            "equipment": [],
+            "capability": [
+                "patient-centered practice"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "e040d3d3-7f89-462c-928f-9d10688223fc",
+        "name": "Doctors in Service Clinic - Abura, Cape Coast, Ghana",
+        "type": NaN,
+        "city": "Cape Coast",
+        "description": "We provide Excellent Healthcare at a Lesser Cost.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "07a76608-9bd9-4ffc-a497-656b9dc57eb8",
+        "name": "Doku Memorial Clinic",
+        "type": "hospital",
+        "city": "Madina",
+        "description": "Doku Memorial Clinic is a private hospital in Greater Accra, Madina Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "private hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "884d90d2-2883-4212-b68a-357b195df83d",
+        "name": "Dominase Adventist Hospital",
+        "type": "hospital",
+        "city": "Bekwai",
+        "description": "Organizational Unit: Ashanti South Ghana Conference. Telecommunications: Telephone: +233501386990. E-mail: [email\u00a0protected]. Address: P.O. Box 272; Bekwai-Ashanti; Ghana. Number of Patient Beds: 60. Board of Management: Augustine Adu-Gyamfi, Chair; Charles Kwame Adofo, Secretary. Administration: President, Augustine Adu-Gyamfi; Vice President, Thomas Asamoah; Senior Medical Staff, Charles Kwame Adofo; Chief of Staff, Victor Owusu. System Codes: EntityID: 13524; OrgMastID: A7OBDO.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "0f07f83d-159f-4603-936c-bdd8d17269a6",
+        "name": "DomLey Herbal Center",
+        "type": NaN,
+        "city": "Asamankese",
+        "description": "We are a herbal center and we use fresh and authentic herbs in the curing of various diseases.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "curing of various diseases"
+            ],
+            "equipment": [],
+            "capability": [
+                "herbal center"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "b6e016e8-87b6-4542-acfe-11079c3c3ee2",
+        "name": "Dompim Health Centre",
+        "type": NaN,
+        "city": "Dompim",
+        "description": "Dompim Health Centre is a government health centre in Western, Dompim Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "government health centre"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "5f1bf751-84f2-4a8b-907c-705a27a02650",
+        "name": "Donkorkrom Presby Hospital",
+        "type": "hospital",
+        "city": "Odonkawkrom",
+        "description": "Hospital located in Odonkawkrom, Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "c560e77d-8f43-45cb-b385-4ef380b5f88f",
+        "name": "Dormaa Presbyterian Hospital",
+        "type": "hospital",
+        "city": NaN,
+        "description": "Dormaa Presby Hospital is a mission primary hospital in Schaefer Street Ghana. It offers a general services. This primary hospital is NHIS accredited.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "general services"
+            ],
+            "equipment": [],
+            "capability": [
+                "mission primary hospital",
+                "primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "3efc6a68-3110-46ad-969a-28b7b8e45518",
+        "name": "Dr. Awuah Sankofa Natural Health Clinic",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "A herbal clinic with modern diagnostic centre treats and manages all kinds of diseases",
+        "facts": {
+            "specialties": [
+                "Herbal medicine"
+            ],
+            "services": [
+                "Treatment",
+                "Management"
+            ],
+            "equipment": [
+                "Diagnostic centre"
+            ],
+            "capability": [
+                "Modern"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "57bc81f3-7cdd-4446-b185-cb18196caad6",
+        "name": "Dr. Martin Curry Dentistry",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "Digital X-ray (OPG, Periapical, Bitewing) Scaling & Polishing Comestic Surgery",
+        "facts": {
+            "specialties": [
+                "Dentistry"
+            ],
+            "services": [
+                "Scaling & Polishing",
+                "Comestic Surgery"
+            ],
+            "equipment": [
+                "Digital X-ray"
+            ],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": true,
+            "risk_score": 2,
+            "flags": [
+                "CRITICAL: Registry lists as 'clinic', but AI extracted SURGERY. Possible resource misallocation."
+            ]
+        }
+    },
+    {
+        "unique_id": "de460bca-ee0c-43f6-90e6-61dc1c9f27cd",
+        "name": "Dr. Power Herbal Clinic TV",
+        "type": NaN,
+        "city": "Accra",
+        "description": "We heal & uproot every sicknesses Spiritually & physically Stroke, Hepatitis B Fibroid, Asthma, Diab",
+        "facts": {
+            "specialties": [
+                "Spiritual healing"
+            ],
+            "services": [
+                "Healing"
+            ],
+            "equipment": [],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "469d7f77-38a6-4fa1-bb92-fd3c992f5e4f",
+        "name": "Dreams Fertility And Alt Clinic",
+        "type": "clinic",
+        "city": "Tema Community 22",
+        "description": "Dreams Fertility & Alt. Clinic is a fertility clinic based in Tema Community 22, Greater Accra Region, Ghana, led by a holistic fertility practitioner with over 20 years of experience. It offers fertility treatments, herbal medicine, reflexology therapy, and nutrition related services.",
+        "facts": {
+            "specialties": [
+                "fertility"
+            ],
+            "services": [
+                "fertility treatments",
+                "herbal medicine",
+                "reflexology therapy",
+                "nutrition related services"
+            ],
+            "equipment": [],
+            "capability": [
+                "holistic fertility practitioner"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "04bd1ef3-ec3e-4375-8a94-2f5924baabab",
+        "name": "Dreams Fertility Clinic",
+        "type": "clinic",
+        "city": "Tema",
+        "description": "Dreams Fertility Clinic is a clinic run by an experienced fertility doctor with over 20 years of experience.",
+        "facts": {
+            "specialties": [
+                "Fertility"
+            ],
+            "services": [
+                "Consultation"
+            ],
+            "equipment": [],
+            "capability": [
+                "Primary clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "c7a68669-7fd5-412c-92e9-f4d7b324daed",
+        "name": "Drifney Dental Services",
+        "type": "dentist",
+        "city": "Weija",
+        "description": "Affordable Laser teeth whitening... Call to book your sessions",
+        "facts": {
+            "specialties": [
+                "Dentistry"
+            ],
+            "services": [
+                "Teeth whitening"
+            ],
+            "equipment": [
+                "Laser"
+            ],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "7d512eb1-9cf1-4cd0-ad8b-59495d67b0e6",
+        "name": "Dungu",
+        "type": "hospital",
+        "city": "Tamale",
+        "description": "Dungu is a Place where Health professionals are trained.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "training facility"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "93bfbdf3-35b6-43ed-adbc-f6d0db5a07f6",
+        "name": "E.M. Ayisi Medical Centre",
+        "type": "hospital",
+        "city": "Accra Central",
+        "description": "Hospital located in Ashaley Botwe Old Town, Accra Central, Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "c5e47daf-370e-4841-a7ab-db223081430c",
+        "name": "Eastern View Skin Clinic, Berekum",
+        "type": "clinic",
+        "city": "Berekum",
+        "description": "Specialist in scar removal, stretch marks, Keloid, tattoo removal, dark spot, facials and hyperpigmentation. Our core mission involves ranges of practices that support skin integrity, enhancing it's appearance and relieve skin condition.",
+        "facts": {
+            "specialties": [
+                "scar removal",
+                "stretch marks",
+                "Keloid",
+                "tattoo removal",
+                "dark spot",
+                "facials",
+                "hyperpigmentation"
+            ],
+            "services": [
+                "support skin integrity",
+                "enhancing appearance",
+                "relieve skin condition"
+            ],
+            "equipment": [],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "d0d7baba-c2f0-49e1-bee1-52544ab83f78",
+        "name": "Eastside Life Hospital",
+        "type": "hospital",
+        "city": "Bolgatanga",
+        "description": "Ophthalmologist; Anesthesiology; 4D Ultrasound; X-Ray; ECG; General Practitioner (GP); Cardiotocography (CTG); CT Scan",
+        "facts": {
+            "specialties": [
+                "Ophthalmology",
+                "Anesthesiology"
+            ],
+            "services": [
+                "General Practitioner (GP)"
+            ],
+            "equipment": [
+                "4D Ultrasound",
+                "X-Ray",
+                "ECG",
+                "Cardiotocography (CTG)",
+                "CT Scan"
+            ],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "78e2ee2e-1ac0-4c43-9a9e-8b6ab2fd529e",
+        "name": "Eden Specialist Hospital",
+        "type": "hospital",
+        "city": "North Kaneshie",
+        "description": "Eden Specialist Hospital is a private hospital in Greater Accra, North Kaneshie Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "private hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "ae07181b-9d69-4772-8ab9-a336dbc60a65",
+        "name": "Ef-Dek Ear Center",
+        "type": NaN,
+        "city": "Accra",
+        "description": "EF-DEK Ear Centre is a specialty centre of excellence in the delivery of Primary care of the regions",
+        "facts": {
+            "specialties": [
+                "Ear Centre"
+            ],
+            "services": [
+                "Primary care"
+            ],
+            "equipment": [],
+            "capability": [
+                "centre of excellence",
+                "specialty centre",
+                "Primary care"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "05168fc9-cf0e-4bfc-bd48-2e2e03191631",
+        "name": "Ejura District Hospital",
+        "type": "hospital",
+        "city": "Ejura",
+        "description": "Ejura District Hospital is a government primary hospital in Ejura -atebubu Rd Near Pwd Ghana. It offers a general services. This primary hospital is NHIS accredited.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "general services"
+            ],
+            "equipment": [],
+            "capability": [
+                "government primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "65c17c2e-5f0f-4c51-9e1a-ddbfdfa3e1ba",
+        "name": "Elubo Health Center",
+        "type": NaN,
+        "city": NaN,
+        "description": "Type: Health Centre; Ownership: Government; Location: Box 96, Half Assini; Tel: 240569304; Services: General; NHIS accredited?: yes",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "General",
+                "Prevention"
+            ],
+            "equipment": [],
+            "capability": [
+                "Government",
+                "Primary hospital",
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "1905a595-277e-4204-817e-9dac3f2d30f7",
+        "name": "Empat-Caiquo Medical Centre - Adjacent SOS Children's Village, Hermann-Gmeiner Road, Tema, Ghana",
+        "type": "hospital",
+        "city": "Tema",
+        "description": "The hospital you trust to care for those you love",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "d5ff4c26-e397-424e-ab43-1b9282fc094c",
+        "name": "Enchi Government Hospital",
+        "type": "hospital",
+        "city": "Enchi",
+        "description": "Primary Care Municipal Hospital located in Enchi, the capital of Aowin Municipality, Western North Region",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Primary Care",
+                "Municipal Hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "da3b5c21-1ec2-4545-936d-b9648b6116c7",
+        "name": "Enchi Government Hospital",
+        "type": "hospital",
+        "city": "Enchi",
+        "description": "Primary Care Municipal Hospital located in Enchi, the capital of Aowin Municipality, Western North Region",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Primary Care",
+                "Municipal Hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "7fa590a5-f64b-480d-8fb2-f44db75b5196",
+        "name": "Eric Heymann Memorial Hospital",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "A COMMUNITY BASED FACILITY THAT PROVIDES INVALUABLE QUALITY AND ACCESSIBLE HEALTHCARE",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "quality",
+                "accessible healthcare"
+            ],
+            "equipment": [],
+            "capability": [
+                "community based facility"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "a97d7edf-a243-4aff-a55b-7ad42c67e5ea",
+        "name": "Essandoh Memorial Clinic",
+        "type": "clinic",
+        "city": "Western",
+        "description": "Essandoh Memorial Clinic is a private clinic in Western, Airport Ridge Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "private clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "41b774fa-3b7c-411c-93fa-f5762554c525",
+        "name": "Essence Medical Laboratory",
+        "type": NaN,
+        "city": "Accra",
+        "description": "Essence Medical Laboratory Limited Company is a professional Chinese-funded medical institution jointly established with TCM Hospital Of Sichuan Province/Hospital Of Chengdu University Of TCM. It is a strategic partner of Di Rui Medical Technology Co. Ltd.",
+        "facts": {
+            "specialties": [
+                "TCM"
+            ],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "professional",
+                "Chinese-funded",
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "cf67aa2c-8a62-4371-bf8d-e0682614622e",
+        "name": "Essence Medical Laboratory",
+        "type": NaN,
+        "city": "Accra",
+        "description": "A state of the art medical laboratory, radiology and health check-up center",
+        "facts": {
+            "specialties": [
+                "Laboratory",
+                "Radiology"
+            ],
+            "services": [
+                "Health check-up"
+            ],
+            "equipment": [
+                "Radiology equipment"
+            ],
+            "capability": [
+                "State of the art"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "5a2ed130-fd0c-4f28-9ecb-3765ce30a8fd",
+        "name": "Evangelical Church of Ghana Hospital, Kpandai",
+        "type": "hospital",
+        "city": "Kpandai",
+        "description": "Evangelical Church of Ghana Hospital - Kpandai, popularly called ECG Hospital, located in Kpandai in the Kpandai District, Northern Region, Ghana. Member of the Christian Health Association of Ghana (CHAG).",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Primary hospital",
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "8b2a7c49-5767-4de7-9275-529f5cb43c4f",
+        "name": "Ever-Youth Alternative Health Center (South Suntreso off Cambridge School, Kumasi, Ghana)",
+        "type": NaN,
+        "city": "Kumasi",
+        "description": "Pioneer of quality health, health education and jobs vacancy for people",
+        "facts": {
+            "specialties": [
+                "health education"
+            ],
+            "services": [
+                "jobs vacancy"
+            ],
+            "equipment": [],
+            "capability": [
+                "quality health"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "3bc0b5c0-a286-4c85-a900-d59326c2c82a",
+        "name": "Evergreen Opticals - Burma Camp, Recce Junction",
+        "type": NaN,
+        "city": NaN,
+        "description": "Evergreen Opticals, with over 25 years of experience, offers a wide range of quality lenses and stylish frames at competitive prices. We prioritize customer satisfaction by providing a seamless shopping experience both online and via WhatsApp. Simply order through our website for home delivery, or send us your prescription and frame choice via WhatsApp, and we'll take care of the rest.",
+        "facts": {
+            "specialties": [
+                "Eye Care"
+            ],
+            "services": [
+                "Pharmacy",
+                "Consultation",
+                "Prevention"
+            ],
+            "equipment": [],
+            "capability": [
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "80d3ce46-0c96-4d88-ad46-e3c738b7495e",
+        "name": "Excel Dental Clinic",
+        "type": "clinic",
+        "city": "Achimota",
+        "description": "At Excel Dental Clinic, we place emphasis on prevention as well as the personalised attention, offering complete dental services. \\n\\nOur excellence in personalized dental care enables us to provide the quality dental services our patients deserve. We provide comprehensive treatment planning and use restorative and cosmetic dentistry to achieve your optimal dental health. \\n\\nIf you're in Ghana or you live overseas but plan on being Accra anytime soon for business or vacation, you could make your appointment with Excel Dental Clinic for a world class dental care.",
+        "facts": {
+            "specialties": [
+                "dental care"
+            ],
+            "services": [
+                "prevention",
+                "comprehensive treatment planning",
+                "restorative dentistry",
+                "cosmetic dentistry"
+            ],
+            "equipment": [],
+            "capability": [
+                "world class dental care",
+                "personalised attention"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "9d11e1fe-2d4c-4c38-abb6-cc06e7dc5e8d",
+        "name": "Excel Dental Clinic - Abofu Traffic Lights, Achimota, Accra, Ghana",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "Excel Dental Clinic is officially registered and given the mandate to fully operate as a limited liability Company in the Ghana Health Industry",
+        "facts": {
+            "specialties": [
+                "Dental Care"
+            ],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "limited liability Company"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "90404239-fb13-4303-9f21-18d75bdb4e28",
+        "name": "Excellent EyeCare Ghana",
+        "type": "clinic",
+        "city": "Kasoa",
+        "description": "Our Clinic is fully equipped with modern Eye equipment for comprehensive examination & diagnosis.",
+        "facts": {
+            "specialties": [
+                "Eye Care"
+            ],
+            "services": [
+                "examination",
+                "diagnosis"
+            ],
+            "equipment": [
+                "Eye equipment"
+            ],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "121a85c7-24d5-43a8-b946-d7ae4a3ac8a5",
+        "name": "Executiveheartcentre_Social",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "An ultra-modern cardiology clinic with cutting-edge technology aimed at diagnosing all types of CVDs",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "1f1c65e2-6178-43dd-b11c-e041ca92f1cc",
+        "name": "Eye Hospital In Accra",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "Eye Hospital In Accra offers ophthalmology services including Diabetic Retinopathy, Retinal Detachment, Glaucoma, Cataract, Cornea, Retina, General Ophthalmology, Refractive Surgery, Neuro Ophthalmology, PDEK, Paediatric Ophthalmology, Anti VEGF Agents, Cosmetic Oculoplasty, Medical Retina, Ocular Oncology, Opticals, Pharmacy, Therapeutic Oculoplasty, Vitreo-Retinal. It lists doctors such as Dr. Asiwome Kwesi Seneadza (Head - Clinical Services, Accra), Dr. Akosua Badu Mensa Bonsu, and Dr. Nasath Tarboush.",
+        "facts": {
+            "specialties": [
+                "ophthalmology",
+                "neuro ophthalmology",
+                "paediatric ophthalmology",
+                "ocular oncology",
+                "medical retina",
+                "cornea",
+                "retina",
+                "cataract",
+                "glaucoma",
+                "diabetic retinopathy",
+                "refractive surgery",
+                "cosmetic oculoplasty",
+                "therapeutic oculoplasty",
+                "vitreo-retinal"
+            ],
+            "services": [
+                "ophthalmology services",
+                "pharmacy",
+                "opticals"
+            ],
+            "equipment": [],
+            "capability": [
+                "24-hour service",
+                "primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "67990c35-fc67-4e60-94db-96a4715b4a6b",
+        "name": "Eye To Eye Clinic",
+        "type": "clinic",
+        "city": "Aflao",
+        "description": "A total eyecare provider with services including general eyecare & examination, optical services, eye surgery, eye diagnostics, rehabilitation, and general dental services",
+        "facts": {
+            "specialties": [
+                "Eyecare"
+            ],
+            "services": [
+                "General eyecare & examination",
+                "Optical services",
+                "Eye surgery",
+                "Eye diagnostics",
+                "Rehabilitation",
+                "General dental services"
+            ],
+            "equipment": [],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": true,
+            "risk_score": 2,
+            "flags": [
+                "CRITICAL: Registry lists as 'clinic', but AI extracted SURGERY. Possible resource misallocation."
+            ]
+        }
+    },
+    {
+        "unique_id": "630e04e0-5a69-49d9-a5e4-816076c16f4c",
+        "name": "FAB Mercy Dialysis Center",
+        "type": NaN,
+        "city": "Accra",
+        "description": "Dialysis Services with Privacy and high standards!",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "Dialysis Services"
+            ],
+            "equipment": [],
+            "capability": [
+                "Privacy",
+                "high standards"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "63b8a5f7-0f9b-4fe9-8adc-9921fb1eb3f8",
+        "name": "Faith Evangelical Mission Hospital",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "The Faith Evangelical Mission Hospital is committed to enhancing the health of its communities by providing superior health services to its patients and embracing clinical health education through a team of knowledgeable, skilled & caring medical, nursing, clinical and non-clinical staff. On-site laboratory. Open 7 days a week / 24 hours. Accepting all major insurance plans. Short waiting times. No appointment needed. Services include Obstetrics/GYNAE, Urology Clinic, Antenatal Clinic, ENT Clinic, Eye Services, Physician Specialist, Home Care Services, Ultra Scan Services, ECG Services, Dental Clinic, Pharmacy, Out Patient, In Patient/Admissions, Surgery.",
+        "facts": {
+            "specialties": [
+                "Obstetrics",
+                "Gynecology",
+                "Urology",
+                "ENT",
+                "Dental",
+                "Physician Specialist"
+            ],
+            "services": [
+                "Obstetrics/GYNAE",
+                "Urology Clinic",
+                "Antenatal Clinic",
+                "ENT Clinic",
+                "Eye Services",
+                "Physician Specialist",
+                "Home Care Services",
+                "Pharmacy",
+                "Out Patient",
+                "In Patient/Admissions",
+                "Surgery"
+            ],
+            "equipment": [
+                "On-site laboratory",
+                "Ultra Scan",
+                "ECG"
+            ],
+            "capability": [
+                "Primary hospital",
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "0266a3a9-7bf5-4376-8993-ad075c71b966",
+        "name": "Fankyenebra Hospital",
+        "type": "hospital",
+        "city": "Kumasi",
+        "description": "24 HOURS SERVICES; GENERAL OPD; ADMISSION (IN-PATIENTS); SURGERY; PSYCHOLOGICAL THERAPY (COUNSELLING); ULTRASOUND; PHYSIOTHERAPY (MASSAGE); OBSTETRICS & GYNEACOLOGY; LABORATORY; EYE CLINIC; HEALTH INSURANCE PACKAGES ALSO AVAILABLE HERE!",
+        "facts": {
+            "specialties": [
+                "OBSTETRICS & GYNEACOLOGY"
+            ],
+            "services": [
+                "GENERAL OPD",
+                "ADMISSION (IN-PATIENTS)",
+                "SURGERY",
+                "PSYCHOLOGICAL THERAPY (COUNSELLING)",
+                "PHYSIOTHERAPY (MASSAGE)",
+                "LABORATORY",
+                "EYE CLINIC"
+            ],
+            "equipment": [
+                "Ultrasound"
+            ],
+            "capability": [
+                "24 HOURS SERVICES",
+                "Primary hospital"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "a748ccb5-471f-420c-bfbc-d49dfae110fe",
+        "name": "Finney Hospital and Fertility Centre",
+        "type": "hospital",
+        "city": "Accra",
+        "description": "Caring || Healing || Leading",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "Caring",
+                "Healing",
+                "Leading"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "1230da44-0d9d-467f-aaaf-f0dd77564f01",
+        "name": "Fire Medical Centre - Ghana",
+        "type": "clinic",
+        "city": "James Town",
+        "description": "Fire Medical Centre is a government clinic in Greater Accra, James Town Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [],
+            "capability": [
+                "government clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "8e303e3f-747c-45e9-bd7d-6002504bf397",
+        "name": "FirstCare Health Services",
+        "type": NaN,
+        "city": "Kumasi",
+        "description": "FirstCare Health Services Limited is a parent company that offers a wide range of modern health facilities and services to bring transformation in the lives of its patients or clients. It intends to create multifaceted health subsidiaries in the medium and long term that will competitively serve the entire nation particularly northern sector of Ghana. Quality health provision is our core business either through our direct services or benefit from our present and future trainees. None of us like to think about falling ill, but making provision for the worst can save a lot of worry and stress if it does happen. Our Primary Services RENAL DIALYSIS INTERNAL MEDICINE OBSTETRICS AND GYNAECOLOGY ENT GENERAL SURGERY PEDIATRICS PSYCHIATRY AND PSYCHOTHERAPY ULTRASOUND ECG HOLTER LABS ETC",
+        "facts": {
+            "specialties": [
+                "Renal dialysis",
+                "Internal medicine",
+                "Obstetrics and gynecology",
+                "ENT general surgery",
+                "Pediatrics",
+                "Psychiatry and psychotherapy"
+            ],
+            "services": [
+                "Renal dialysis",
+                "Internal medicine",
+                "Obstetrics and gynecology",
+                "ENT general surgery",
+                "Pediatrics",
+                "Psychiatry and psychotherapy",
+                "Pharmacy",
+                "Laboratory"
+            ],
+            "equipment": [
+                "Ultrasound",
+                "ECG",
+                "Holter",
+                "Labs"
+            ],
+            "capability": [
+                "Primary hospital",
+                "24-hour service"
+            ]
+        },
+        "audit": {
+            "is_flagged": true,
+            "risk_score": 6,
+            "flags": [
+                "CRITICAL: Registry lists as 'nan', but AI extracted SURGERY. Possible resource misallocation.",
+                "CRITICAL: Registry lists as 'nan', but AI extracted ULTRASOUND. Possible resource misallocation.",
+                "CRITICAL: Registry lists as 'nan', but AI extracted ECG. Possible resource misallocation."
+            ]
+        }
+    },
+    {
+        "unique_id": "c052f400-4bcc-4db0-b2e7-08cbc58dded1",
+        "name": "FirstCare Health Services",
+        "type": NaN,
+        "city": "Kumasi",
+        "description": "FirstCare Health Services Limited is a parent company that offers a wide range of modern health facilities and services to bring transformation in the lives of its patients or clients. It intends to create multifaceted health subsidiaries in the medium and long term that will competitively serve the entire nation particularly northern sector of Ghana.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "health services"
+            ],
+            "equipment": [],
+            "capability": [
+                "parent company",
+                "modern health facilities",
+                "multifaceted health subsidiaries"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "c87299c2-a06b-4c61-9202-c9b4ced16539",
+        "name": "Forever Champion Health Centre",
+        "type": "clinic",
+        "city": "Accra",
+        "description": "Discover holistic well-being at Forever Champion Health Centre, your home of Organic Health Care. We provide ultra modern healthcare services with safe and quality organic/alternative treatment methods.",
+        "facts": {
+            "specialties": [],
+            "services": [
+                "Organic/alternative treatment methods"
+            ],
+            "equipment": [],
+            "capability": [
+                "Organic Health Care",
+                "ultra modern healthcare services"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "296c059b-3577-4f48-af30-1f75358e46eb",
+        "name": "Forever Medicals GH",
+        "type": NaN,
+        "city": "Accra",
+        "description": "We supply Medical Equipment & PPEs.",
+        "facts": {
+            "specialties": [],
+            "services": [],
+            "equipment": [
+                "Medical Equipment",
+                "PPEs"
+            ],
+            "capability": []
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    },
+    {
+        "unique_id": "b27ecc9c-7cbf-4884-b21f-dc47d1d773f9",
+        "name": "Framada Dental Clinic",
+        "type": "clinic",
+        "city": "Kumasi",
+        "description": "FRAMADA DENTAL CLINIC offers general dentistry, orthodontics, restorative dentistry, maxillofacial surgery, periodontics, and paediatric dentistry.",
+        "facts": {
+            "specialties": [
+                "Dentistry",
+                "Orthodontics",
+                "Restorative dentistry",
+                "Maxillofacial surgery",
+                "Periodontics",
+                "Paediatric dentistry"
+            ],
+            "services": [
+                "General dentistry",
+                "Orthodontics",
+                "Restorative dentistry",
+                "Maxillofacial surgery",
+                "Periodontics",
+                "Paediatric dentistry"
+            ],
+            "equipment": [],
+            "capability": [
+                "Primary clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": true,
+            "risk_score": 2,
+            "flags": [
+                "CRITICAL: Registry lists as 'clinic', but AI extracted SURGERY. Possible resource misallocation."
+            ]
+        }
+    },
+    {
+        "unique_id": "af33040b-325b-4df1-8f9d-036d082ee98a",
+        "name": "Framada Dental Clinic",
+        "type": "dentist",
+        "city": "Kumasi",
+        "description": "Specialist Dental clinic with ultra modern equipments and professionals to give you your dream smile",
+        "facts": {
+            "specialties": [
+                "Dental"
+            ],
+            "services": [
+                "give you your dream smile"
+            ],
+            "equipment": [
+                "ultra modern equipments"
+            ],
+            "capability": [
+                "Specialist Dental clinic"
+            ]
+        },
+        "audit": {
+            "is_flagged": false,
+            "risk_score": 0,
+            "flags": []
+        }
+    }
+]
