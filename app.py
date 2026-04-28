@@ -5,7 +5,7 @@ import json
 import random
 from streamlit_folium import st_folium
 
-st.set_page_config(page_title="Virtue Health AI Co-Pilot", layout="wide", page_icon="🌍")
+st.set_page_config(page_title="Virtue Foundation: Healthcare Intelligence", layout="wide", page_icon="🌍")
 
 # Static coordinates for Ghana regions
 GHANA_ZONES = {
